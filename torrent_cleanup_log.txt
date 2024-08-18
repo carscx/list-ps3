@@ -1,0 +1,806 @@
+2024-08-18 16:20:00,139 - INFO - Archivo eliminado: ./juegos/Warriors Legend of Troy/torrent do jogo.torrent
+2024-08-18 16:20:00,140 - INFO - Archivo eliminado: ./juegos/Ridge Racer Unbounded/torrent do jogo.torrent
+2024-08-18 16:20:00,142 - INFO - Archivo eliminado: ./juegos/LEGO The Lord of The Rings/torrent do jogo.torrent
+2024-08-18 16:20:00,143 - INFO - Archivo eliminado: ./juegos/Just Dance 4/torrent do jogo.torrent
+2024-08-18 16:20:00,144 - INFO - Archivo eliminado: ./juegos/Silent Hill HD Collection/torrent do jogo.torrent
+2024-08-18 16:20:00,145 - INFO - Archivo eliminado: ./juegos/Uncharted 2 Among Thieves/torrent do jogo.torrent
+2024-08-18 16:20:00,147 - INFO - Archivo eliminado: ./juegos/Disney Universe/torrent do jogo.torrent
+2024-08-18 16:20:00,147 - INFO - Archivo eliminado: ./juegos/Top Spin 4/torrent do jogo.torrent
+2024-08-18 16:20:00,148 - INFO - Archivo eliminado: ./juegos/FIFA 15/torrent do jogo.torrent
+2024-08-18 16:20:00,148 - INFO - Archivo eliminado: ./juegos/Mafia II/torrent do jogo.torrent
+2024-08-18 16:20:00,148 - INFO - Archivo eliminado: ./juegos/Prince of Persia Trilogy/torrent do jogo.torrent
+2024-08-18 16:20:00,149 - INFO - Archivo eliminado: ./juegos/Minecraft/torrent do jogo.torrent
+2024-08-18 16:20:00,149 - INFO - Archivo eliminado: ./juegos/GRID 2/torrent do jogo.torrent
+2024-08-18 16:20:00,149 - INFO - Archivo eliminado: ./juegos/Duck Tales Remastered/torrent do jogo.torrent
+2024-08-18 16:20:00,150 - INFO - Archivo eliminado: ./juegos/Wonderbook Book of Potions/torrent do jogo.torrent
+2024-08-18 16:20:00,151 - INFO - Archivo eliminado: ./juegos/Bleach Soul Resurreccion/torrent do jogo.torrent
+2024-08-18 16:20:00,152 - INFO - Archivo eliminado: ./juegos/Dragon Age 2/torrent do jogo.torrent
+2024-08-18 16:20:00,152 - INFO - Archivo eliminado: ./juegos/Assassins Creed Heritage Collection/torrent do jogo.torrent
+2024-08-18 16:20:00,153 - INFO - Archivo eliminado: ./juegos/Fist Of The North Star Kens Rage/torrent do jogo.torrent
+2024-08-18 16:20:00,153 - INFO - Archivo eliminado: ./juegos/White Night Chronicles 2/torrent do jogo.torrent
+2024-08-18 16:20:00,154 - INFO - Archivo eliminado: ./juegos/Need For Speed Rivals/torrent do jogo.torrent
+2024-08-18 16:20:00,154 - INFO - Archivo eliminado: ./juegos/Wanted Weapons of Fate/torrent do jogo.torrent
+2024-08-18 16:20:00,155 - INFO - Archivo eliminado: ./juegos/Armored Core 4/torrent do jogo.torrent
+2024-08-18 16:20:00,155 - INFO - Archivo eliminado: ./juegos/Bioshock 1/torrent do jogo.torrent
+2024-08-18 16:20:00,155 - INFO - Archivo eliminado: ./juegos/Modnation Racers/torrent do jogo.torrent
+2024-08-18 16:20:00,156 - INFO - Archivo eliminado: ./juegos/Tears to Tiara II Heir of the Overlord/torrent do jogo.torrent
+2024-08-18 16:20:00,156 - INFO - Archivo eliminado: ./juegos/Ride/torrent do jogo.torrent
+2024-08-18 16:20:00,156 - INFO - Archivo eliminado: ./juegos/Trivial Persuit/torrent do jogo.torrent
+2024-08-18 16:20:00,157 - INFO - Archivo eliminado: ./juegos/The Darkness 2/torrent do jogo.torrent
+2024-08-18 16:20:00,157 - INFO - Archivo eliminado: ./juegos/Turning Point Fall of Liberty/torrent do jogo.torrent
+2024-08-18 16:20:00,157 - INFO - Archivo eliminado: ./juegos/Dark Souls 2/torrent do jogo.torrent
+2024-08-18 16:20:00,158 - INFO - Archivo eliminado: ./juegos/MX GP/torrent do jogo.torrent
+2024-08-18 16:20:00,159 - INFO - Archivo eliminado: ./juegos/Assassins Creed 4 Black Flag/torrent do jogo.torrent
+2024-08-18 16:20:00,159 - INFO - Archivo eliminado: ./juegos/Resident Evil ZERO HD Remaster/torrent do jogo.torrent
+2024-08-18 16:20:00,160 - INFO - Archivo eliminado: ./juegos/Call of Duty World at War/torrent do jogo.torrent
+2024-08-18 16:20:00,160 - INFO - Archivo eliminado: ./juegos/Dollar Dash PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,160 - INFO - Archivo eliminado: ./juegos/Guitar Hero Smash Hits/torrent do jogo.torrent
+2024-08-18 16:20:00,161 - INFO - Archivo eliminado: ./juegos/Surfs Up/torrent do jogo.torrent
+2024-08-18 16:20:00,161 - INFO - Archivo eliminado: ./juegos/Pure/torrent do jogo.torrent
+2024-08-18 16:20:00,161 - INFO - Archivo eliminado: ./juegos/Akibas Trip Undead and Undressed/torrent do jogo.torrent
+2024-08-18 16:20:00,162 - INFO - Archivo eliminado: ./juegos/Saints Row The Third Full Package/torrent do jogo.torrent
+2024-08-18 16:20:00,162 - INFO - Archivo eliminado: ./juegos/Dragon Ball Z Burst Limit/torrent do jogo.torrent
+2024-08-18 16:20:00,162 - INFO - Archivo eliminado: ./juegos/Super Street Fighter IV/torrent do jogo.torrent
+2024-08-18 16:20:00,162 - INFO - Archivo eliminado: ./juegos/Mugen Souls/torrent do jogo.torrent
+2024-08-18 16:20:00,162 - INFO - Archivo eliminado: ./juegos/Ultimate Marvel vs Capcom 3/torrent do jogo.torrent
+2024-08-18 16:20:00,163 - INFO - Archivo eliminado: ./juegos/Ico & Shadow of Colossus Remastered/torrent do jogo.torrent
+2024-08-18 16:20:00,163 - INFO - Archivo eliminado: ./juegos/Yakuza 4/torrent do jogo.torrent
+2024-08-18 16:20:00,163 - INFO - Archivo eliminado: ./juegos/F1 2012/torrent do jogo.torrent
+2024-08-18 16:20:00,164 - INFO - Archivo eliminado: ./juegos/Call of Duty 3/torrent do jogo.torrent
+2024-08-18 16:20:00,164 - INFO - Archivo eliminado: ./juegos/Street Fighter X/torrent do jogo.torrent
+2024-08-18 16:20:00,164 - INFO - Archivo eliminado: ./juegos/Valiant Heart The Great War/torrent do jogo.torrent
+2024-08-18 16:20:00,164 - INFO - Archivo eliminado: ./juegos/Kingdom Hearts HD 2.5/torrent do jogo.torrent
+2024-08-18 16:20:00,165 - INFO - Archivo eliminado: ./juegos/Ratchet & Clank Q Force/torrent do jogo.torrent
+2024-08-18 16:20:00,165 - INFO - Archivo eliminado: ./juegos/Resident Evil 5/torrent do jogo.torrent
+2024-08-18 16:20:00,165 - INFO - Archivo eliminado: ./juegos/Sleeping Dogs/torrent do jogo.torrent
+2024-08-18 16:20:00,165 - INFO - Archivo eliminado: ./juegos/Dynasty Warriors 8/torrent do jogo.torrent
+2024-08-18 16:20:00,166 - INFO - Archivo eliminado: ./juegos/Transformers War for Cybertron/torrent do jogo.torrent
+2024-08-18 16:20:00,166 - INFO - Archivo eliminado: ./juegos/Apache Air Assault/torrent do jogo.torrent
+2024-08-18 16:20:00,166 - INFO - Archivo eliminado: ./juegos/MLB 13 The Show/torrent do jogo.torrent
+2024-08-18 16:20:00,167 - INFO - Archivo eliminado: ./juegos/Dragon Age Inquisition/torrent do jogo.torrent
+2024-08-18 16:20:00,167 - INFO - Archivo eliminado: ./juegos/Venetica/torrent do jogo.torrent
+2024-08-18 16:20:00,167 - INFO - Archivo eliminado: ./juegos/Cabelas Big Game Hunter/torrent do jogo.torrent
+2024-08-18 16:20:00,168 - INFO - Archivo eliminado: ./juegos/Happy Feet Two/torrent do jogo.torrent
+2024-08-18 16:20:00,168 - INFO - Archivo eliminado: ./juegos/L.A. Noire/torrent do jogo.torrent
+2024-08-18 16:20:00,169 - INFO - Archivo eliminado: ./juegos/Falling Skies/torrent do jogo.torrent
+2024-08-18 16:20:00,169 - INFO - Archivo eliminado: ./juegos/Dynasty Warriors Gundam Reborn/torrent do jogo.torrent
+2024-08-18 16:20:00,170 - INFO - Archivo eliminado: ./juegos/Skylanders SWAP Force/torrent do jogo.torrent
+2024-08-18 16:20:00,170 - INFO - Archivo eliminado: ./juegos/The Price is Right/torrent do jogo.torrent
+2024-08-18 16:20:00,170 - INFO - Archivo eliminado: ./juegos/Catherine/torrent do jogo.torrent
+2024-08-18 16:20:00,171 - INFO - Archivo eliminado: ./juegos/BulletStorm/torrent do jogo.torrent
+2024-08-18 16:20:00,171 - INFO - Archivo eliminado: ./juegos/Saints Row Get Out of Hell/torrent do jogo.torrent
+2024-08-18 16:20:00,171 - INFO - Archivo eliminado: ./juegos/Binary Domain/torrent do jogo.torrent
+2024-08-18 16:20:00,172 - INFO - Archivo eliminado: ./juegos/The Walking Dead GOTY/torrent do jogo.torrent
+2024-08-18 16:20:00,172 - INFO - Archivo eliminado: ./juegos/Borderlands/torrent do jogo.torrent
+2024-08-18 16:20:00,172 - INFO - Archivo eliminado: ./juegos/Arcana Heart 3/torrent do jogo.torrent
+2024-08-18 16:20:00,173 - INFO - Archivo eliminado: ./juegos/God of War 3/torrent do jogo.torrent
+2024-08-18 16:20:00,173 - INFO - Archivo eliminado: ./juegos/South Park The Stick of Truth/torrent do jogo.torrent
+2024-08-18 16:20:00,173 - INFO - Archivo eliminado: ./juegos/Dead to Rights Retribution/torrent do jogo.torrent
+2024-08-18 16:20:00,173 - INFO - Archivo eliminado: ./juegos/LEGO Indiana Jones 2 The Adventure Continues/torrent do jogo.torrent
+2024-08-18 16:20:00,174 - INFO - Archivo eliminado: ./juegos/Mortal Kombat 9/torrent do jogo.torrent
+2024-08-18 16:20:00,174 - INFO - Archivo eliminado: ./juegos/Streets of Rage 2/torrent do jogo.torrent
+2024-08-18 16:20:00,174 - INFO - Archivo eliminado: ./juegos/Persona 4 Arena Ultimax/torrent do jogo.torrent
+2024-08-18 16:20:00,175 - INFO - Archivo eliminado: ./juegos/Mortal Kombat 9 Komplete Edition/torrent do jogo.torrent
+2024-08-18 16:20:00,175 - INFO - Archivo eliminado: ./juegos/Drakengard 3/torrent do jogo.torrent
+2024-08-18 16:20:00,176 - INFO - Archivo eliminado: ./juegos/Resident Evil Opreation Racoon City/torrent do jogo.torrent
+2024-08-18 16:20:00,176 - INFO - Archivo eliminado: ./juegos/Spider Man Shattered Dimensions/torrent do jogo.torrent
+2024-08-18 16:20:00,177 - INFO - Archivo eliminado: ./juegos/NHL 15/torrent do jogo.torrent
+2024-08-18 16:20:00,177 - INFO - Archivo eliminado: ./juegos/Guitar Hero World Tour/torrent do jogo.torrent
+2024-08-18 16:20:00,177 - INFO - Archivo eliminado: ./juegos/Devil May Cry 4/torrent do jogo.torrent
+2024-08-18 16:20:00,178 - INFO - Archivo eliminado: ./juegos/NBA 2012/torrent do jogo.torrent
+2024-08-18 16:20:00,178 - INFO - Archivo eliminado: ./juegos/Driver San Francisco/torrent do jogo.torrent
+2024-08-18 16:20:00,178 - INFO - Archivo eliminado: ./juegos/BioShock Ultimate Rapture Edition/torrent do jogo.torrent
+2024-08-18 16:20:00,179 - INFO - Archivo eliminado: ./juegos/Little Big Planet/torrent do jogo.torrent
+2024-08-18 16:20:00,179 - INFO - Archivo eliminado: ./juegos/Ratchet & Clank Tools of Destruction/torrent do jogo.torrent
+2024-08-18 16:20:00,180 - INFO - Archivo eliminado: ./juegos/Hot Shots Golf World Invitational/torrent do jogo.torrent
+2024-08-18 16:20:00,180 - INFO - Archivo eliminado: ./juegos/How to Train Your Dragon/torrent do jogo.torrent
+2024-08-18 16:20:00,180 - INFO - Archivo eliminado: ./juegos/Dark Void/torrent do jogo.torrent
+2024-08-18 16:20:00,180 - INFO - Archivo eliminado: ./juegos/Cabelas Dangerous Hunts/torrent do jogo.torrent
+2024-08-18 16:20:00,181 - INFO - Archivo eliminado: ./juegos/Fuel/torrent do jogo.torrent
+2024-08-18 16:20:00,181 - INFO - Archivo eliminado: ./juegos/Thief/torrent do jogo.torrent
+2024-08-18 16:20:00,181 - INFO - Archivo eliminado: ./juegos/Mindjack/torrent do jogo.torrent
+2024-08-18 16:20:00,181 - INFO - Archivo eliminado: ./juegos/Dead Space Ignition/torrent do jogo.torrent
+2024-08-18 16:20:00,182 - INFO - Archivo eliminado: ./juegos/Destiny/torrent do jogo.torrent
+2024-08-18 16:20:00,182 - INFO - Archivo eliminado: ./juegos/Metal Gear Solid V Ground Zeroes/torrent do jogo.torrent
+2024-08-18 16:20:00,182 - INFO - Archivo eliminado: ./juegos/FEAR 2/torrent do jogo.torrent
+2024-08-18 16:20:00,182 - INFO - Archivo eliminado: ./juegos/Half Life 2 The Orange Box/torrent do jogo.torrent
+2024-08-18 16:20:00,183 - INFO - Archivo eliminado: ./juegos/Kingdom Hearts HD 1.5/torrent do jogo.torrent
+2024-08-18 16:20:00,183 - INFO - Archivo eliminado: ./juegos/Shadow of the Damned/torrent do jogo.torrent
+2024-08-18 16:20:00,183 - INFO - Archivo eliminado: ./juegos/Little Big Planet 3/torrent do jogo.torrent
+2024-08-18 16:20:00,183 - INFO - Archivo eliminado: ./juegos/GTA V/torrent do jogo.torrent
+2024-08-18 16:20:00,184 - INFO - Archivo eliminado: ./juegos/Resonance of Fate/torrent do jogo.torrent
+2024-08-18 16:20:00,184 - INFO - Archivo eliminado: ./juegos/Splatterhouse/torrent do jogo.torrent
+2024-08-18 16:20:00,184 - INFO - Archivo eliminado: ./juegos/Yu Gi Oh! Millennium Duels PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,184 - INFO - Archivo eliminado: ./juegos/IHF Handball Challenge 14/torrent do jogo.torrent
+2024-08-18 16:20:00,185 - INFO - Archivo eliminado: ./juegos/El Chavo Kart/torrent do jogo.torrent
+2024-08-18 16:20:00,185 - INFO - Archivo eliminado: ./juegos/Cars 2/torrent do jogo.torrent
+2024-08-18 16:20:00,185 - INFO - Archivo eliminado: ./juegos/Eternal Sonata/torrent do jogo.torrent
+2024-08-18 16:20:00,185 - INFO - Archivo eliminado: ./juegos/Tony Hawk Shred/torrent do jogo.torrent
+2024-08-18 16:20:00,186 - INFO - Archivo eliminado: ./juegos/Men In Black 3 Alien Crisis/torrent do jogo.torrent
+2024-08-18 16:20:00,186 - INFO - Archivo eliminado: ./juegos/Resident Evil Biohazard HD Remaster/torrent do jogo.torrent
+2024-08-18 16:20:00,186 - INFO - Archivo eliminado: ./juegos/Wonderbook Book of Spells/torrent do jogo.torrent
+2024-08-18 16:20:00,186 - INFO - Archivo eliminado: ./juegos/Condemned 2 Bloodshot/torrent do jogo.torrent
+2024-08-18 16:20:00,187 - INFO - Archivo eliminado: ./juegos/Bomberman Ultra PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,187 - INFO - Archivo eliminado: ./juegos/Gran Turismo 5 Academy Edtion/torrent do jogo.torrent
+2024-08-18 16:20:00,187 - INFO - Archivo eliminado: ./juegos/Harry Potter and the Deathly Hallows Part 2/torrent do jogo.torrent
+2024-08-18 16:20:00,187 - INFO - Archivo eliminado: ./juegos/Final Fantasy XIII-2/torrent do jogo.torrent
+2024-08-18 16:20:00,188 - INFO - Archivo eliminado: ./juegos/Ar Tonelico Qoga Knell of Ar Ciel/torrent do jogo.torrent
+2024-08-18 16:20:00,188 - INFO - Archivo eliminado: ./juegos/LEGO Batman 3 Beyond Gotham/torrent do jogo.torrent
+2024-08-18 16:20:00,188 - INFO - Archivo eliminado: ./juegos/Diablo III/torrent do jogo.torrent
+2024-08-18 16:20:00,189 - INFO - Archivo eliminado: ./juegos/LEGO Batman/torrent do jogo.torrent
+2024-08-18 16:20:00,189 - INFO - Archivo eliminado: ./juegos/PES Pro Evolution Soccer 2016/torrent do jogo.torrent
+2024-08-18 16:20:00,189 - INFO - Archivo eliminado: ./juegos/Persona 4 Arena/torrent do jogo.torrent
+2024-08-18 16:20:00,190 - INFO - Archivo eliminado: ./juegos/Band Hero/torrent do jogo.torrent
+2024-08-18 16:20:00,190 - INFO - Archivo eliminado: ./juegos/Operation Flashpoint Red River/torrent do jogo.torrent
+2024-08-18 16:20:00,190 - INFO - Archivo eliminado: ./juegos/The Bureau XCOM Declassified/torrent do jogo.torrent
+2024-08-18 16:20:00,191 - INFO - Archivo eliminado: ./juegos/Test Drive Unlimited 2/torrent do jogo.torrent
+2024-08-18 16:20:00,191 - INFO - Archivo eliminado: ./juegos/Deadpool/torrent do jogo.torrent
+2024-08-18 16:20:00,191 - INFO - Archivo eliminado: ./juegos/Madagascar 3/torrent do jogo.torrent
+2024-08-18 16:20:00,192 - INFO - Archivo eliminado: ./juegos/Wonderbook Digs Nigtcrawler/torrent do jogo.torrent
+2024-08-18 16:20:00,192 - INFO - Archivo eliminado: ./juegos/TV Superstars/torrent do jogo.torrent
+2024-08-18 16:20:00,193 - INFO - Archivo eliminado: ./juegos/Spec Ops The Line/torrent do jogo.torrent
+2024-08-18 16:20:00,193 - INFO - Archivo eliminado: ./juegos/Mortal Kombat Arcade Kollection HD/torrent do jogo.torrent
+2024-08-18 16:20:00,193 - INFO - Archivo eliminado: ./juegos/Aliens vs Predator/torrent do jogo.torrent
+2024-08-18 16:20:00,194 - INFO - Archivo eliminado: ./juegos/Farming Simulator/torrent do jogo.torrent
+2024-08-18 16:20:00,194 - INFO - Archivo eliminado: ./juegos/The Saboteur/torrent do jogo.torrent
+2024-08-18 16:20:00,194 - INFO - Archivo eliminado: ./juegos/Red Faction Armageddon/torrent do jogo.torrent
+2024-08-18 16:20:00,194 - INFO - Archivo eliminado: ./juegos/Kane and Lynch 2 Dog Days/torrent do jogo.torrent
+2024-08-18 16:20:00,195 - INFO - Archivo eliminado: ./juegos/Alien Spidy PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,195 - INFO - Archivo eliminado: ./juegos/Call of Duty Modern Warfare 3/torrent do jogo.torrent
+2024-08-18 16:20:00,195 - INFO - Archivo eliminado: ./juegos/Crysis 2/torrent do jogo.torrent
+2024-08-18 16:20:00,196 - INFO - Archivo eliminado: ./juegos/Dead Island Riptide/torrent do jogo.torrent
+2024-08-18 16:20:00,196 - INFO - Archivo eliminado: ./juegos/Silent Hill Homecoming/torrent do jogo.torrent
+2024-08-18 16:20:00,196 - INFO - Archivo eliminado: ./juegos/Assassins Creed 2/torrent do jogo.torrent
+2024-08-18 16:20:00,196 - INFO - Archivo eliminado: ./juegos/Mirror Edge/torrent do jogo.torrent
+2024-08-18 16:20:00,197 - INFO - Archivo eliminado: ./juegos/Blur/torrent do jogo.torrent
+2024-08-18 16:20:00,197 - INFO - Archivo eliminado: ./juegos/Risen 3 Titan Lords/torrent do jogo.torrent
+2024-08-18 16:20:00,197 - INFO - Archivo eliminado: ./juegos/The Beatles Rock Band/torrent do jogo.torrent
+2024-08-18 16:20:00,198 - INFO - Archivo eliminado: ./juegos/James Bond 007 Blood Stone/torrent do jogo.torrent
+2024-08-18 16:20:00,198 - INFO - Archivo eliminado: ./juegos/LEGO Batman 2/torrent do jogo.torrent
+2024-08-18 16:20:00,199 - INFO - Archivo eliminado: ./juegos/LEGO The Hobbit/torrent do jogo.torrent
+2024-08-18 16:20:00,199 - INFO - Archivo eliminado: ./juegos/Dragon Age Origins Ultimate Edition/torrent do jogo.torrent
+2024-08-18 16:20:00,199 - INFO - Archivo eliminado: ./juegos/X Men Destiny/torrent do jogo.torrent
+2024-08-18 16:20:00,200 - INFO - Archivo eliminado: ./juegos/Contrast/torrent do jogo.torrent
+2024-08-18 16:20:00,200 - INFO - Archivo eliminado: ./juegos/Borderlands 2/torrent do jogo.torrent
+2024-08-18 16:20:00,200 - INFO - Archivo eliminado: ./juegos/Capcom Arcade Cabinet All Games Unlocker PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,200 - INFO - Archivo eliminado: ./juegos/Splinter Cell Double Agent/torrent do jogo.torrent
+2024-08-18 16:20:00,201 - INFO - Archivo eliminado: ./juegos/NASCAR 2011/torrent do jogo.torrent
+2024-08-18 16:20:00,201 - INFO - Archivo eliminado: ./juegos/Final Fantasy X-X2 HD Remaster/torrent do jogo.torrent
+2024-08-18 16:20:00,201 - INFO - Archivo eliminado: ./juegos/Castle of Illusion Starring Mickey Mouse HD Remake PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,201 - INFO - Archivo eliminado: ./juegos/The Adventures of Tintin The Secret of the Unicorn/torrent do jogo.torrent
+2024-08-18 16:20:00,202 - INFO - Archivo eliminado: ./juegos/Sega Mega Drive Ultimate Collection/torrent do jogo.torrent
+2024-08-18 16:20:00,202 - INFO - Archivo eliminado: ./juegos/Poker Night 2/torrent do jogo.torrent
+2024-08-18 16:20:00,202 - INFO - Archivo eliminado: ./juegos/Crysis 3/torrent do jogo.torrent
+2024-08-18 16:20:00,202 - INFO - Archivo eliminado: ./juegos/Le Tour De France 2014/torrent do jogo.torrent
+2024-08-18 16:20:00,202 - INFO - Archivo eliminado: ./juegos/Teenage Mutant Ninja Turtles Out of the Shadows/torrent do jogo.torrent
+2024-08-18 16:20:00,203 - INFO - Archivo eliminado: ./juegos/One Piece Kaizoku Musou/torrent do jogo.torrent
+2024-08-18 16:20:00,203 - INFO - Archivo eliminado: ./juegos/Twisted Lands Shadow Town PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,204 - INFO - Archivo eliminado: ./juegos/NBA Street/torrent do jogo.torrent
+2024-08-18 16:20:00,204 - INFO - Archivo eliminado: ./juegos/Fat Princess/torrent do jogo.torrent
+2024-08-18 16:20:00,204 - INFO - Archivo eliminado: ./juegos/Resident Evil The Umbrella Chronicles HD/torrent do jogo.torrent
+2024-08-18 16:20:00,204 - INFO - Archivo eliminado: ./juegos/Naruto Shippuden Ultimate Ninja Storm 3 FULL/torrent do jogo.torrent
+2024-08-18 16:20:00,205 - INFO - Archivo eliminado: ./juegos/Enemy Front/torrent do jogo.torrent
+2024-08-18 16:20:00,205 - INFO - Archivo eliminado: ./juegos/Resident Evil Revelations 2 COMPLETO/torrent do jogo.torrent
+2024-08-18 16:20:00,206 - INFO - Archivo eliminado: ./juegos/Guitar Hero 3 Legends of Rock/torrent do jogo.torrent
+2024-08-18 16:20:00,206 - INFO - Archivo eliminado: ./juegos/Tales of Xillia 2/torrent do jogo.torrent
+2024-08-18 16:20:00,206 - INFO - Archivo eliminado: ./juegos/Deadly Premonition The Directors Cut/torrent do jogo.torrent
+2024-08-18 16:20:00,207 - INFO - Archivo eliminado: ./juegos/World Rally Championship Powerslide PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,207 - INFO - Archivo eliminado: ./juegos/Starhawk/torrent do jogo.torrent
+2024-08-18 16:20:00,207 - INFO - Archivo eliminado: ./juegos/SSX 2012/torrent do jogo.torrent
+2024-08-18 16:20:00,207 - INFO - Archivo eliminado: ./juegos/Blokus/torrent do jogo.torrent
+2024-08-18 16:20:00,208 - INFO - Archivo eliminado: ./juegos/Tom Clancys Hawx 2/torrent do jogo.torrent
+2024-08-18 16:20:00,208 - INFO - Archivo eliminado: ./juegos/Dynasty Warriors Gundam 3/torrent do jogo.torrent
+2024-08-18 16:20:00,208 - INFO - Archivo eliminado: ./juegos/Spider Man 3/torrent do jogo.torrent
+2024-08-18 16:20:00,208 - INFO - Archivo eliminado: ./juegos/Madden NFL 13/torrent do jogo.torrent
+2024-08-18 16:20:00,209 - INFO - Archivo eliminado: ./juegos/Oddworld Stranger's Wrath HD/torrent do jogo.torrent
+2024-08-18 16:20:00,209 - INFO - Archivo eliminado: ./juegos/NHL 13/torrent do jogo.torrent
+2024-08-18 16:20:00,209 - INFO - Archivo eliminado: ./juegos/Armored Core 5/torrent do jogo.torrent
+2024-08-18 16:20:00,210 - INFO - Archivo eliminado: ./juegos/The Evil Within/torrent do jogo.torrent
+2024-08-18 16:20:00,210 - INFO - Archivo eliminado: ./juegos/Minecraft Story Mode Episodes 1 to 5/torrent do jogo.torrent
+2024-08-18 16:20:00,210 - INFO - Archivo eliminado: ./juegos/Truck Racer/torrent do jogo.torrent
+2024-08-18 16:20:00,210 - INFO - Archivo eliminado: ./juegos/Acceleration Of Suguri X Edition/torrent del juego.torrent
+2024-08-18 16:20:00,211 - INFO - Archivo eliminado: ./juegos/SpongeBob Square Pants Plankton Robotic Revenge/torrent do jogo.torrent
+2024-08-18 16:20:00,211 - INFO - Archivo eliminado: ./juegos/Gran Turismo 6/torrent do jogo.torrent
+2024-08-18 16:20:00,211 - INFO - Archivo eliminado: ./juegos/Moto GP 10 & 11/torrent do jogo.torrent
+2024-08-18 16:20:00,211 - INFO - Archivo eliminado: ./juegos/The Legend of Korra PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,212 - INFO - Archivo eliminado: ./juegos/PlayStation All Stars Battle Royale/torrent do jogo.torrent
+2024-08-18 16:20:00,212 - INFO - Archivo eliminado: ./juegos/Just Dance 2015/torrent do jogo.torrent
+2024-08-18 16:20:00,212 - INFO - Archivo eliminado: ./juegos/Spider Man Edge of Time/torrent do jogo.torrent
+2024-08-18 16:20:00,213 - INFO - Archivo eliminado: ./juegos/Final Fantasy XIV A Realm Reborn/torrent do jogo.torrent
+2024-08-18 16:20:00,213 - INFO - Archivo eliminado: ./juegos/Battlefield Bad Company Gold Edition/torrent do jogo.torrent
+2024-08-18 16:20:00,213 - INFO - Archivo eliminado: ./juegos/Adidas miCoach/torrent del juego.torrent
+2024-08-18 16:20:00,214 - INFO - Archivo eliminado: ./juegos/Resistance 3/torrent do jogo.torrent
+2024-08-18 16:20:00,214 - INFO - Archivo eliminado: ./juegos/Metal Gear Solid HD Collection/torrent do jogo.torrent
+2024-08-18 16:20:00,214 - INFO - Archivo eliminado: ./juegos/Braid/torrent do jogo.torrent
+2024-08-18 16:20:00,215 - INFO - Archivo eliminado: ./juegos/Tomb Raider Lara Croft and the Guardian of Light PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,215 - INFO - Archivo eliminado: ./juegos/Duke Nukem Forever/torrent do jogo.torrent
+2024-08-18 16:20:00,215 - INFO - Archivo eliminado: ./juegos/Dance Dance Revolution/torrent do jogo.torrent
+2024-08-18 16:20:00,215 - INFO - Archivo eliminado: ./juegos/Ratchet & Clank The Trilogy/torrent do jogo.torrent
+2024-08-18 16:20:00,216 - INFO - Archivo eliminado: ./juegos/Injustice Gods Among Us Ultimate Edition/torrent do jogo.torrent
+2024-08-18 16:20:00,216 - INFO - Archivo eliminado: ./juegos/Dishonored GOTY/torrent do jogo.torrent
+2024-08-18 16:20:00,216 - INFO - Archivo eliminado: ./juegos/Armored Core Veredict Day/torrent do jogo.torrent
+2024-08-18 16:20:00,216 - INFO - Archivo eliminado: ./juegos/Sniper Elite V2/torrent do jogo.torrent
+2024-08-18 16:20:00,217 - INFO - Archivo eliminado: ./juegos/Yaiba Ninja Gaiden Z/torrent do jogo.torrent
+2024-08-18 16:20:00,217 - INFO - Archivo eliminado: ./juegos/Defiance/torrent do jogo.torrent
+2024-08-18 16:20:00,217 - INFO - Archivo eliminado: ./juegos/FEAR 1/torrent do jogo.torrent
+2024-08-18 16:20:00,217 - INFO - Archivo eliminado: ./juegos/Iron Man/torrent do jogo.torrent
+2024-08-18 16:20:00,218 - INFO - Archivo eliminado: ./juegos/Monster Jam Path of Destruction/torrent do jogo.torrent
+2024-08-18 16:20:00,218 - INFO - Archivo eliminado: ./juegos/God of War Collection/torrent do jogo.torrent
+2024-08-18 16:20:00,218 - INFO - Archivo eliminado: ./juegos/The Elder Scrolls IV Oblivion GOTY/torrent do jogo.torrent
+2024-08-18 16:20:00,218 - INFO - Archivo eliminado: ./juegos/Colin Mcrae Rally Dirt 1/DiRT Colin McRAE RALLY.torrent
+2024-08-18 16:20:00,219 - INFO - Archivo eliminado: ./juegos/Splinter Cell Trilogy/torrent do jogo.torrent
+2024-08-18 16:20:00,219 - INFO - Archivo eliminado: ./juegos/FIFA 14/torrent do jogo.torrent
+2024-08-18 16:20:00,219 - INFO - Archivo eliminado: ./juegos/Resident Evil 6/torrent do jogo.torrent
+2024-08-18 16:20:00,220 - INFO - Archivo eliminado: ./juegos/Untold Legends Dark Kingdom/torrent do jogo.torrent
+2024-08-18 16:20:00,220 - INFO - Archivo eliminado: ./juegos/Magic 2014 Duels of the Planeswalkers/torrent do jogo.torrent
+2024-08-18 16:20:00,220 - INFO - Archivo eliminado: ./juegos/Red Dead Redemption/torrent do jogo.torrent
+2024-08-18 16:20:00,221 - INFO - Archivo eliminado: ./juegos/Ratchet & Clank All 4 One/torrent do jogo.torrent
+2024-08-18 16:20:00,221 - INFO - Archivo eliminado: ./juegos/How to Train Your Dragon 2/torrent do jogo.torrent
+2024-08-18 16:20:00,221 - INFO - Archivo eliminado: ./juegos/Guitar Hero 5/torrent do jogo.torrent
+2024-08-18 16:20:00,221 - INFO - Archivo eliminado: ./juegos/Life is Strange COMPLETO/torrent do jogo.torrent
+2024-08-18 16:20:00,222 - INFO - Archivo eliminado: ./juegos/Need For Speed Hot Persuit/torrent do jogo.torrent
+2024-08-18 16:20:00,222 - INFO - Archivo eliminado: ./juegos/Diablo III Reaper of Souls Ultimate Evil Edition/torrent do jogo.torrent
+2024-08-18 16:20:00,222 - INFO - Archivo eliminado: ./juegos/Legend of the Guardians The Owls of Ga'Hoole/torrent do jogo.torrent
+2024-08-18 16:20:00,222 - INFO - Archivo eliminado: ./juegos/Colin Mcrae Rally Dirt 3/DiRT 3 Colin McRAE RALLY.torrent
+2024-08-18 16:20:00,223 - INFO - Archivo eliminado: ./juegos/BlazBlue Chrono Phantasma/torrent do jogo.torrent
+2024-08-18 16:20:00,223 - INFO - Archivo eliminado: ./juegos/The Wolf Among Us/torrent do jogo.torrent
+2024-08-18 16:20:00,223 - INFO - Archivo eliminado: ./juegos/Destroy All Humans/torrent do jogo.torrent
+2024-08-18 16:20:00,223 - INFO - Archivo eliminado: ./juegos/Virtua Fighter 5 Final Showdown/torrent do jogo.torrent
+2024-08-18 16:20:00,224 - INFO - Archivo eliminado: ./juegos/Shellshock 2 Blood Trails/torrent do jogo.torrent
+2024-08-18 16:20:00,224 - INFO - Archivo eliminado: ./juegos/LEGO Movie Videogame/torrent do jogo.torrent
+2024-08-18 16:20:00,224 - INFO - Archivo eliminado: ./juegos/Brutal Legend/torrent do jogo.torrent
+2024-08-18 16:20:00,225 - INFO - Archivo eliminado: ./juegos/Deadfall Adventures Heart of Atlantis PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,225 - INFO - Archivo eliminado: ./juegos/Dead Space 3/torrent do jogo.torrent
+2024-08-18 16:20:00,225 - INFO - Archivo eliminado: ./juegos/Devil May Cry HD Collection/torrent do jogo.torrent
+2024-08-18 16:20:00,225 - INFO - Archivo eliminado: ./juegos/AMY PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,226 - INFO - Archivo eliminado: ./juegos/Just Cause 2/torrent do jogo.torrent
+2024-08-18 16:20:00,226 - INFO - Archivo eliminado: ./juegos/Dead Space/torrent do jogo.torrent
+2024-08-18 16:20:00,226 - INFO - Archivo eliminado: ./juegos/Naughty Bear Double Trouble/torrent do jogo.torrent
+2024-08-18 16:20:00,226 - INFO - Archivo eliminado: ./juegos/One Piece Unlimited World Red/torrent do jogo.torrent
+2024-08-18 16:20:00,226 - INFO - Archivo eliminado: ./juegos/Steins Gate/torrent do jogo.torrent
+2024-08-18 16:20:00,227 - INFO - Archivo eliminado: ./juegos/Max Payne 3/torrent do jogo.torrent
+2024-08-18 16:20:00,227 - INFO - Archivo eliminado: ./juegos/PES Pro Evolution Soccer 2011/torrent do jogo.torrent
+2024-08-18 16:20:00,227 - INFO - Archivo eliminado: ./juegos/Gotham City Impostors/torrent do jogo.torrent
+2024-08-18 16:20:00,228 - INFO - Archivo eliminado: ./juegos/Iron Man 2/torrent do jogo.torrent
+2024-08-18 16:20:00,228 - INFO - Archivo eliminado: ./juegos/Dead Or Alive 5 Ultimate/torrent do jogo.torrent
+2024-08-18 16:20:00,228 - INFO - Archivo eliminado: ./juegos/Infamous/torrent do jogo.torrent
+2024-08-18 16:20:00,229 - INFO - Archivo eliminado: ./juegos/Bandfuse Rock Legends/torrent do jogo.torrent
+2024-08-18 16:20:00,229 - INFO - Archivo eliminado: ./juegos/Sid Meiers Civilization.Revolution/torrent do jogo.torrent
+2024-08-18 16:20:00,230 - INFO - Archivo eliminado: ./juegos/Army of Two The 40th Day/torrent do jogo.torrent
+2024-08-18 16:20:00,230 - INFO - Archivo eliminado: ./juegos/XCOM Enemy Within/XCOM Enemy.torrent
+2024-08-18 16:20:00,230 - INFO - Archivo eliminado: ./juegos/Tomb Raider Trilogy/torrent do jogo.torrent
+2024-08-18 16:20:00,231 - INFO - Archivo eliminado: ./juegos/Call of Juarez The Cartel/torrent do jogo.torrent
+2024-08-18 16:20:00,231 - INFO - Archivo eliminado: ./juegos/Fast And Furious Showdown/torrent do jogo.torrent
+2024-08-18 16:20:00,231 - INFO - Archivo eliminado: ./juegos/F1 2013 Complete Edition/torrent do jogo.torrent
+2024-08-18 16:20:00,232 - INFO - Archivo eliminado: ./juegos/Bloodbath/torrent do jogo.torrent
+2024-08-18 16:20:00,232 - INFO - Archivo eliminado: ./juegos/Star Wars The Clone Wars/torrent do jogo.torrent
+2024-08-18 16:20:00,232 - INFO - Archivo eliminado: ./juegos/Ninja Gaiden Razor´s Edge/torrent do jogo.torrent
+2024-08-18 16:20:00,232 - INFO - Archivo eliminado: ./juegos/Kick Ass 2/torrent do jogo.torrent
+2024-08-18 16:20:00,233 - INFO - Archivo eliminado: ./juegos/Borderlands GOTY Edition/torrent do jogo.torrent
+2024-08-18 16:20:00,233 - INFO - Archivo eliminado: ./juegos/Alice Madness Returns/torrent do jogo.torrent
+2024-08-18 16:20:00,233 - INFO - Archivo eliminado: ./juegos/Resident Evil Revelations/torrent do jogo.torrent
+2024-08-18 16:20:00,234 - INFO - Archivo eliminado: ./juegos/Aliens Colonial Marines/torrent do jogo.torrent
+2024-08-18 16:20:00,234 - INFO - Archivo eliminado: ./juegos/Start The Party/torrent do jogo.torrent
+2024-08-18 16:20:00,234 - INFO - Archivo eliminado: ./juegos/Alpha Protocol/torrent do jogo.torrent
+2024-08-18 16:20:00,234 - INFO - Archivo eliminado: ./juegos/Arcania The Complete Tale/torrent do jogo.torrent
+2024-08-18 16:20:00,235 - INFO - Archivo eliminado: ./juegos/Final Fantasy XIII/torrent do jogo.torrent
+2024-08-18 16:20:00,235 - INFO - Archivo eliminado: ./juegos/Playstation Move Heroes/torrent do jogo.torrent
+2024-08-18 16:20:00,235 - INFO - Archivo eliminado: ./juegos/Bodycount/torrent do jogo.torrent
+2024-08-18 16:20:00,236 - INFO - Archivo eliminado: ./juegos/Race Driver Grid/torrent do jogo.torrent
+2024-08-18 16:20:00,236 - INFO - Archivo eliminado: ./juegos/Resistance Fall of Man/torrent do jogo.torrent
+2024-08-18 16:20:00,236 - INFO - Archivo eliminado: ./juegos/Sonic Unleashed/torrent do jogo.torrent
+2024-08-18 16:20:00,237 - INFO - Archivo eliminado: ./juegos/Hitman Sniper Challenge PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,237 - INFO - Archivo eliminado: ./juegos/Virtua Fighter 5/torrent do jogo.torrent
+2024-08-18 16:20:00,237 - INFO - Archivo eliminado: ./juegos/Killzone 1 HD/torrent do jogo.torrent
+2024-08-18 16:20:00,237 - INFO - Archivo eliminado: ./juegos/Air Conflicts Secret Wars/torrent del juego.torrent
+2024-08-18 16:20:00,238 - INFO - Archivo eliminado: ./juegos/Army of Two/torrent do jogo.torrent
+2024-08-18 16:20:00,238 - INFO - Archivo eliminado: ./juegos/Doom 3 BFG Edition Repack/torrent do jogo.torrent
+2024-08-18 16:20:00,239 - INFO - Archivo eliminado: ./juegos/Bound by Flame/torrent do jogo.torrent
+2024-08-18 16:20:00,239 - INFO - Archivo eliminado: ./juegos/Clash of the Titans/torrent do jogo.torrent
+2024-08-18 16:20:00,239 - INFO - Archivo eliminado: ./juegos/Star Trek The Game/torrent do jogo.torrent
+2024-08-18 16:20:00,240 - INFO - Archivo eliminado: ./juegos/Naruto Shippuden Ultimate Ninja Storm 2/torrent do jogo.torrent
+2024-08-18 16:20:00,240 - INFO - Archivo eliminado: ./juegos/Call of Juarez Bound in Blood/torrent do jogo.torrent
+2024-08-18 16:20:00,240 - INFO - Archivo eliminado: ./juegos/Atelier Rorona Plus The Alchemist Of Arland/torrent do jogo.torrent
+2024-08-18 16:20:00,241 - INFO - Archivo eliminado: ./juegos/Assassins Creed Revelations/torrent do jogo.torrent
+2024-08-18 16:20:00,241 - INFO - Archivo eliminado: ./juegos/Transformers Fall of Cybertron/torrent do jogo.torrent
+2024-08-18 16:20:00,241 - INFO - Archivo eliminado: ./juegos/Metal Gear Rising Revengeance/torrent do jogo.torrent
+2024-08-18 16:20:00,242 - INFO - Archivo eliminado: ./juegos/Bionic Commando Rearmed 2 PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,242 - INFO - Archivo eliminado: ./juegos/Mars War Logs PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,242 - INFO - Archivo eliminado: ./juegos/Prototype/torrent do jogo.torrent
+2024-08-18 16:20:00,242 - INFO - Archivo eliminado: ./juegos/MX vs ATV Supercross/torrent do jogo.torrent
+2024-08-18 16:20:00,242 - INFO - Archivo eliminado: ./juegos/Blood Knights PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,243 - INFO - Archivo eliminado: ./juegos/Saint Seiya Brave Soldiers/torrent do jogo.torrent
+2024-08-18 16:20:00,243 - INFO - Archivo eliminado: ./juegos/Rugby World Cup 2011/torrent do jogo.torrent
+2024-08-18 16:20:00,243 - INFO - Archivo eliminado: ./juegos/Haze/torrent do jogo.torrent
+2024-08-18 16:20:00,243 - INFO - Archivo eliminado: ./juegos/GRID Autosport/torrent do jogo.torrent
+2024-08-18 16:20:00,244 - INFO - Archivo eliminado: ./juegos/MLB 14 The Show/torrent do jogo.torrent
+2024-08-18 16:20:00,244 - INFO - Archivo eliminado: ./juegos/Marvel Vs Capcom Origins/torrent do jogo.torrent
+2024-08-18 16:20:00,244 - INFO - Archivo eliminado: ./juegos/Enslaved Odyssey to the West/torrent do jogo.torrent
+2024-08-18 16:20:00,244 - INFO - Archivo eliminado: ./juegos/PES Pro Evolution Soccer 2012/torrent do jogo.torrent
+2024-08-18 16:20:00,245 - INFO - Archivo eliminado: ./juegos/Lair/torrent do jogo.torrent
+2024-08-18 16:20:00,245 - INFO - Archivo eliminado: ./juegos/Le Tour De France 2013/torrent do jogo.torrent
+2024-08-18 16:20:00,246 - INFO - Archivo eliminado: ./juegos/LEGO Harry Potter Years 1 to 4/torrent do jogo.torrent
+2024-08-18 16:20:00,246 - INFO - Archivo eliminado: ./juegos/Marvel Super Hero Squad The Infinity Gauntlet/torrent do jogo.torrent
+2024-08-18 16:20:00,246 - INFO - Archivo eliminado: ./juegos/The Sims 3/torrent do jogo.torrent
+2024-08-18 16:20:00,247 - INFO - Archivo eliminado: ./juegos/Heroes Over Europe/torrent do jogo.torrent
+2024-08-18 16:20:00,247 - INFO - Archivo eliminado: ./juegos/Need For Speed Pro Street/torrent do jogo.torrent
+2024-08-18 16:20:00,247 - INFO - Archivo eliminado: ./juegos/LEGO Harry Potter Years 5 to 7/torrent do jogo.torrent
+2024-08-18 16:20:00,247 - INFO - Archivo eliminado: ./juegos/NASCAR 14/torrent do jogo.torrent
+2024-08-18 16:20:00,248 - INFO - Archivo eliminado: ./juegos/Siren Blood Curse/torrent do jogo.torrent
+2024-08-18 16:20:00,248 - INFO - Archivo eliminado: ./juegos/Metro Last Light/torrent do jogo.torrent
+2024-08-18 16:20:00,248 - INFO - Archivo eliminado: ./juegos/The Incredible Hulk/torrent do jogo.torrent
+2024-08-18 16:20:00,248 - INFO - Archivo eliminado: ./juegos/Singstar Abba/torrent do jogo.torrent
+2024-08-18 16:20:00,248 - INFO - Archivo eliminado: ./juegos/Red Dead Redemption GOTY Edition/torrent do jogo.torrent
+2024-08-18 16:20:00,249 - INFO - Archivo eliminado: ./juegos/Saints Row 2/torrent do jogo.torrent
+2024-08-18 16:20:00,249 - INFO - Archivo eliminado: ./juegos/Skylanders Trap Team/torrent do jogo.torrent
+2024-08-18 16:20:00,249 - INFO - Archivo eliminado: ./juegos/NBA 2013/torrent do jogo.torrent
+2024-08-18 16:20:00,249 - INFO - Archivo eliminado: ./juegos/Guitar Hero Live/torrent do jogo.torrent
+2024-08-18 16:20:00,250 - INFO - Archivo eliminado: ./juegos/The Cave PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,250 - INFO - Archivo eliminado: ./juegos/Uncharted 3 Drake´s Deception/torrent do jogo.torrent
+2024-08-18 16:20:00,250 - INFO - Archivo eliminado: ./juegos/James Bond 007 Legends/torrent do jogo.torrent
+2024-08-18 16:20:00,251 - INFO - Archivo eliminado: ./juegos/Ridge Racer 7/torrent do jogo.torrent
+2024-08-18 16:20:00,251 - INFO - Archivo eliminado: ./juegos/Call of Duty 4 Modern Warfare/torrent do jogo.torrent
+2024-08-18 16:20:00,251 - INFO - Archivo eliminado: ./juegos/Disney Epic Mickey 2 The Power of Two/torrent do jogo.torrent
+2024-08-18 16:20:00,252 - INFO - Archivo eliminado: ./juegos/Michael Jackson The Experience/torrent do jogo.torrent
+2024-08-18 16:20:00,252 - INFO - Archivo eliminado: ./juegos/Brothers in Arms Hells Highway/torrent do jogo.torrent
+2024-08-18 16:20:00,252 - INFO - Archivo eliminado: ./juegos/Need For Speed Most Wanted/torrent do jogo.torrent
+2024-08-18 16:20:00,252 - INFO - Archivo eliminado: ./juegos/NBA 2015/torrent do jogo.torrent
+2024-08-18 16:20:00,253 - INFO - Archivo eliminado: ./juegos/MX vs ATV Alive/torrent do jogo.torrent
+2024-08-18 16:20:00,253 - INFO - Archivo eliminado: ./juegos/Need For Speed Shift/torrent do jogo.torrent
+2024-08-18 16:20:00,253 - INFO - Archivo eliminado: ./juegos/Burnout Paradise/torrent do jogo.torrent
+2024-08-18 16:20:00,253 - INFO - Archivo eliminado: ./juegos/Splinter Cell Blacklist/torrent do jogo.torrent
+2024-08-18 16:20:00,254 - INFO - Archivo eliminado: ./juegos/Killzone 2/torrent do jogo.torrent
+2024-08-18 16:20:00,254 - INFO - Archivo eliminado: ./juegos/Narco Terror PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,254 - INFO - Archivo eliminado: ./juegos/The Smurfs 2/torrent do jogo.torrent
+2024-08-18 16:20:00,254 - INFO - Archivo eliminado: ./juegos/Destiny The Taken King Legendary Edition/torrent do jogo.torrent
+2024-08-18 16:20:00,255 - INFO - Archivo eliminado: ./juegos/Resident Evil Code Veronica X HD/torrent do jogo.torrent
+2024-08-18 16:20:00,255 - INFO - Archivo eliminado: ./juegos/FIFA 16/torrent do jogo.torrent
+2024-08-18 16:20:00,255 - INFO - Archivo eliminado: ./juegos/Sniper Ghost Warrior 2/torrent do jogo.torrent
+2024-08-18 16:20:00,256 - INFO - Archivo eliminado: ./juegos/Game of Thrones/torrent do jogo.torrent
+2024-08-18 16:20:00,256 - INFO - Archivo eliminado: ./juegos/Enemy Territory Quake Wars/torrent do jogo.torrent
+2024-08-18 16:20:00,256 - INFO - Archivo eliminado: ./juegos/Saw II/torrent do jogo.torrent
+2024-08-18 16:20:00,256 - INFO - Archivo eliminado: ./juegos/Zombie Apocalypse PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,256 - INFO - Archivo eliminado: ./juegos/The Darkness/torrent do jogo.torrent
+2024-08-18 16:20:00,257 - INFO - Archivo eliminado: ./juegos/Outland PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,257 - INFO - Archivo eliminado: ./juegos/LEGO Marvel Avengers/torrent do jogo.torrent
+2024-08-18 16:20:00,257 - INFO - Archivo eliminado: ./juegos/FIFA World Cup South Africa 2010/torrent do jogo.torrent
+2024-08-18 16:20:00,257 - INFO - Archivo eliminado: ./juegos/Medal Of Honor Airborne/torrent do jogo.torrent
+2024-08-18 16:20:00,257 - INFO - Archivo eliminado: ./juegos/Madden NFL 15/torrent do jogo.torrent
+2024-08-18 16:20:00,258 - INFO - Archivo eliminado: ./juegos/Journey Collectors Edition/torrent do jogo.torrent
+2024-08-18 16:20:00,258 - INFO - Archivo eliminado: ./juegos/Far Cry 4/torrent do jogo.torrent
+2024-08-18 16:20:00,258 - INFO - Archivo eliminado: ./juegos/Sacred 2 Fallen Angel/torrent do jogo.torrent
+2024-08-18 16:20:00,258 - INFO - Archivo eliminado: ./juegos/Sorcery/torrent do jogo.torrent
+2024-08-18 16:20:00,259 - INFO - Archivo eliminado: ./juegos/Batman Arkham Origins Blackgate Deluxe Edition PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,259 - INFO - Archivo eliminado: ./juegos/Assassins Creed Rogue/torrent do jogo.torrent
+2024-08-18 16:20:00,259 - INFO - Archivo eliminado: ./juegos/Rugby 15/torrent do jogo.torrent
+2024-08-18 16:20:00,259 - INFO - Archivo eliminado: ./juegos/MAG/torrent do jogo.torrent
+2024-08-18 16:20:00,260 - INFO - Archivo eliminado: ./juegos/Killzone 3/torrent do jogo.torrent
+2024-08-18 16:20:00,260 - INFO - Archivo eliminado: ./juegos/Hard Corps Uprising/torrent do jogo.torrent
+2024-08-18 16:20:00,261 - INFO - Archivo eliminado: ./juegos/Castlevania Lords of Shadow 2/torrent do jogo.torrent
+2024-08-18 16:20:00,261 - INFO - Archivo eliminado: ./juegos/Wolfenstein The New Order/torrent do jogo.torrent
+2024-08-18 16:20:00,262 - INFO - Archivo eliminado: ./juegos/The House of the Dead Overkill/torrent do jogo.torrent
+2024-08-18 16:20:00,262 - INFO - Archivo eliminado: ./juegos/Doctor Who The Eternity Clock/torrent do jogo.torrent
+2024-08-18 16:20:00,262 - INFO - Archivo eliminado: ./juegos/Runner 2 Future Legend of Rhythm Alien/torrent do jogo.torrent
+2024-08-18 16:20:00,262 - INFO - Archivo eliminado: ./juegos/Digimon All Star Rumble/torrent do jogo.torrent
+2024-08-18 16:20:00,263 - INFO - Archivo eliminado: ./juegos/Castlevania Lords of Shadow/torrent do jogo.torrent
+2024-08-18 16:20:00,263 - INFO - Archivo eliminado: ./juegos/Kung Fu Panda 2/torrent do jogo.torrent
+2024-08-18 16:20:00,263 - INFO - Archivo eliminado: ./juegos/Guitar Hero Warriors of Rock/torrent do jogo.torrent
+2024-08-18 16:20:00,264 - INFO - Archivo eliminado: ./juegos/Dragon Ball Z Budokai HD Collection/torrent do jogo.torrent
+2024-08-18 16:20:00,264 - INFO - Archivo eliminado: ./juegos/Battlefield 4 Premium/torrent do jogo.torrent
+2024-08-18 16:20:00,264 - INFO - Archivo eliminado: ./juegos/Don Bradman Cricket 14/torrent do jogo.torrent
+2024-08-18 16:20:00,264 - INFO - Archivo eliminado: ./juegos/Sherlock Holmes Crimes and Punishments/torrent do jogo.torrent
+2024-08-18 16:20:00,265 - INFO - Archivo eliminado: ./juegos/Rugby World Cup 2015/torrent do jogo.torrent
+2024-08-18 16:20:00,265 - INFO - Archivo eliminado: ./juegos/Godzilla/torrent do jogo.torrent
+2024-08-18 16:20:00,265 - INFO - Archivo eliminado: ./juegos/Battle Los Angeles PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,265 - INFO - Archivo eliminado: ./juegos/Wangan Midnight/torrent do jogo.torrent
+2024-08-18 16:20:00,266 - INFO - Archivo eliminado: ./juegos/The Lord of the Rings War in North/torrent do jogo.torrent
+2024-08-18 16:20:00,266 - INFO - Archivo eliminado: ./juegos/Toy Story Mania/torrent do jogo.torrent
+2024-08-18 16:20:00,266 - INFO - Archivo eliminado: ./juegos/Tomb Raider Underworld/torrent do jogo.torrent
+2024-08-18 16:20:00,266 - INFO - Archivo eliminado: ./juegos/Rio/torrent do jogo.torrent
+2024-08-18 16:20:00,267 - INFO - Archivo eliminado: ./juegos/Ferrari The Race Experience/torrent do jogo.torrent
+2024-08-18 16:20:00,267 - INFO - Archivo eliminado: ./juegos/Kane Linch Dead Men/torrent do jogo.torrent
+2024-08-18 16:20:00,267 - INFO - Archivo eliminado: ./juegos/Warriors Orochi 3/torrent do jogo.torrent
+2024-08-18 16:20:00,267 - INFO - Archivo eliminado: ./juegos/Ghost Recon Future Soldier/torrent do jogo.torrent
+2024-08-18 16:20:00,267 - INFO - Archivo eliminado: ./juegos/Demons Souls/torrent do jogo.torrent
+2024-08-18 16:20:00,268 - INFO - Archivo eliminado: ./juegos/Hellboy the Science of Evil/torrent do jogo.torrent
+2024-08-18 16:20:00,268 - INFO - Archivo eliminado: ./juegos/Mini Ninjas/torrent do jogo.torrent
+2024-08-18 16:20:00,268 - INFO - Archivo eliminado: ./juegos/Mass Effect Tirlogy/torrent do jogo.torrent
+2024-08-18 16:20:00,268 - INFO - Archivo eliminado: ./juegos/Dragons Dogma/torrent do jogo.torrent
+2024-08-18 16:20:00,269 - INFO - Archivo eliminado: ./juegos/FEAR 3/torrent do jogo.torrent
+2024-08-18 16:20:00,269 - INFO - Archivo eliminado: ./juegos/Plants vs Zombies Garden Warfare/torrent do jogo.torrent
+2024-08-18 16:20:00,269 - INFO - Archivo eliminado: ./juegos/Call of Juarez Gunslinger PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,269 - INFO - Archivo eliminado: ./juegos/Infamous Festival of Blood/torrent do jogo.torrent
+2024-08-18 16:20:00,270 - INFO - Archivo eliminado: ./juegos/F1 2014/torrent do jogo.torrent
+2024-08-18 16:20:00,270 - INFO - Archivo eliminado: ./juegos/Young Justice Legacy/torrent do jogo.torrent
+2024-08-18 16:20:00,270 - INFO - Archivo eliminado: ./juegos/Medieval Moves Deadmund's Quest/torrent do jogo.torrent
+2024-08-18 16:20:00,270 - INFO - Archivo eliminado: ./juegos/Sniper Ghost Warrior 1/torrent do jogo.torrent
+2024-08-18 16:20:00,271 - INFO - Archivo eliminado: ./juegos/Vanquish/torrent do jogo.torrent
+2024-08-18 16:20:00,271 - INFO - Archivo eliminado: ./juegos/Lost Planet Extreme Condition/torrent do jogo.torrent
+2024-08-18 16:20:00,271 - INFO - Archivo eliminado: ./juegos/Little Big Planet 2/torrent do jogo.torrent
+2024-08-18 16:20:00,271 - INFO - Archivo eliminado: ./juegos/Ghostbusters The Video Game/torrent do jogo.torrent
+2024-08-18 16:20:00,272 - INFO - Archivo eliminado: ./juegos/The Chronicles of Riddick Assault on Dark Athena/torrent do jogo.torrent
+2024-08-18 16:20:00,272 - INFO - Archivo eliminado: ./juegos/The Chronicles of Narnia Prince Caspian/torrent do jogo.torrent
+2024-08-18 16:20:00,272 - INFO - Archivo eliminado: ./juegos/The Cursed Crusade/torrent do jogo.torrent
+2024-08-18 16:20:00,272 - INFO - Archivo eliminado: ./juegos/Disney Sing It Pop Hits/torrent do jogo.torrent
+2024-08-18 16:20:00,273 - INFO - Archivo eliminado: ./juegos/Wheelman/torrent do jogo.torrent
+2024-08-18 16:20:00,273 - INFO - Archivo eliminado: ./juegos/Trine 2/torrent do jogo.torrent
+2024-08-18 16:20:00,273 - INFO - Archivo eliminado: ./juegos/Disgaea D2 A Brighter Darkness/torrent do jogo.torrent
+2024-08-18 16:20:00,273 - INFO - Archivo eliminado: ./juegos/Battlefield 4/torrent do jogo.torrent
+2024-08-18 16:20:00,274 - INFO - Archivo eliminado: ./juegos/The Legend of Spyro Dawn of the Dragon/torrent do jogo.torrent
+2024-08-18 16:20:00,274 - INFO - Archivo eliminado: ./juegos/Dead Or Alive 5/torrent do jogo.torrent
+2024-08-18 16:20:00,274 - INFO - Archivo eliminado: ./juegos/Battle vs Chess/torrent do jogo.torrent
+2024-08-18 16:20:00,274 - INFO - Archivo eliminado: ./juegos/Asuras Wrath/torrent do jogo.torrent
+2024-08-18 16:20:00,274 - INFO - Archivo eliminado: ./juegos/WET/torrent do jogo.torrent
+2024-08-18 16:20:00,275 - INFO - Archivo eliminado: ./juegos/Tekken 5 Dark Ressurrection/torrent do jogo.torrent
+2024-08-18 16:20:00,275 - INFO - Archivo eliminado: ./juegos/The Simpsoms Game/torrent do jogo.torrent
+2024-08-18 16:20:00,275 - INFO - Archivo eliminado: ./juegos/Risen 2 Dark Waters/torrent do jogo.torrent
+2024-08-18 16:20:00,276 - INFO - Archivo eliminado: ./juegos/Dance Its Your Stage/torrent do jogo.torrent
+2024-08-18 16:20:00,276 - INFO - Archivo eliminado: ./juegos/Monkey Island Special Edition Collection/torrent do jogo.torrent
+2024-08-18 16:20:00,276 - INFO - Archivo eliminado: ./juegos/Monsters Vs Aliens/torrent do jogo.torrent
+2024-08-18 16:20:00,276 - INFO - Archivo eliminado: ./juegos/Dishonored/torrent do jogo.torrent
+2024-08-18 16:20:00,277 - INFO - Archivo eliminado: ./juegos/Ultra Street Fighter IV/torrent do jogo.torrent
+2024-08-18 16:20:00,277 - INFO - Archivo eliminado: ./juegos/Tekken Hibrid/torrent do jogo.torrent
+2024-08-18 16:20:00,277 - INFO - Archivo eliminado: ./juegos/Trinity Universe/torrent do jogo.torrent
+2024-08-18 16:20:00,277 - INFO - Archivo eliminado: ./juegos/Silent Hill Downpour/torrent do jogo.torrent
+2024-08-18 16:20:00,278 - INFO - Archivo eliminado: ./juegos/GTA San Andreas/torrent do jogo.torrent
+2024-08-18 16:20:00,278 - INFO - Archivo eliminado: ./juegos/Rainbow Six Vegas 2/torrent do jogo.torrent
+2024-08-18 16:20:00,278 - INFO - Archivo eliminado: ./juegos/Pac Man And The Ghostly Adventures/torrent do jogo.torrent
+2024-08-18 16:20:00,278 - INFO - Archivo eliminado: ./juegos/Worms The Revolution Collection/torrent do jogo.torrent
+2024-08-18 16:20:00,279 - INFO - Archivo eliminado: ./juegos/Tales of Monkey Island Chapters 1 to 5/torrent do jogo.torrent
+2024-08-18 16:20:00,279 - INFO - Archivo eliminado: ./juegos/Tales of Graces/torrent do jogo.torrent
+2024-08-18 16:20:00,279 - INFO - Archivo eliminado: ./juegos/Unreal Tournament III/torrent do jogo.torrent
+2024-08-18 16:20:00,279 - INFO - Archivo eliminado: ./juegos/Shank 2 PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,279 - INFO - Archivo eliminado: ./juegos/Borderlands The Pre Sequel De Luxe Edition/torrent do jogo.torrent
+2024-08-18 16:20:00,280 - INFO - Archivo eliminado: ./juegos/XCOM Enemy Unknown/XCOM Enemy.torrent
+2024-08-18 16:20:00,280 - INFO - Archivo eliminado: ./juegos/Ninja Gaiden Sigma/torrent do jogo.torrent
+2024-08-18 16:20:00,281 - INFO - Archivo eliminado: ./juegos/Call of Duty Black Ops II/torrent do jogo.torrent
+2024-08-18 16:20:00,281 - INFO - Archivo eliminado: ./juegos/Far Cry 2/torrent do jogo.torrent
+2024-08-18 16:20:00,281 - INFO - Archivo eliminado: ./juegos/Tales of Symphonia Chronicles/torrent do jogo.torrent
+2024-08-18 16:20:00,282 - INFO - Archivo eliminado: ./juegos/Homefront/torrent do jogo.torrent
+2024-08-18 16:20:00,282 - INFO - Archivo eliminado: ./juegos/Singstar Dance/torrent do jogo.torrent
+2024-08-18 16:20:00,282 - INFO - Archivo eliminado: ./juegos/Stranglehold/torrent do jogo.torrent
+2024-08-18 16:20:00,283 - INFO - Archivo eliminado: ./juegos/Beyond Two Souls/torrent do jogo.torrent
+2024-08-18 16:20:00,283 - INFO - Archivo eliminado: ./juegos/FIFA World Cup Brazil 2014 PT-BR/torrent do jogo.torrent
+2024-08-18 16:20:00,283 - INFO - Archivo eliminado: ./juegos/E.A. Sports MMA/torrent do jogo.torrent
+2024-08-18 16:20:00,283 - INFO - Archivo eliminado: ./juegos/Fallout 3 GOTY/torrent do jogo.torrent
+2024-08-18 16:20:00,283 - INFO - Archivo eliminado: ./juegos/Cars Mater National/torrent do jogo.torrent
+2024-08-18 16:20:00,284 - INFO - Archivo eliminado: ./juegos/Rayman Legends/torrent do jogo.torrent
+2024-08-18 16:20:00,284 - INFO - Archivo eliminado: ./juegos/Heavenly Sword/torrent do jogo.torrent
+2024-08-18 16:20:00,284 - INFO - Archivo eliminado: ./juegos/Red Faction Guerrila/torrent do jogo.torrent
+2024-08-18 16:20:00,284 - INFO - Archivo eliminado: ./juegos/Call of Duty Modern Warfare 2/torrent do jogo.torrent
+2024-08-18 16:20:00,285 - INFO - Archivo eliminado: ./juegos/Dragon Ball Z Battle of Z/torrent do jogo.torrent
+2024-08-18 16:20:00,285 - INFO - Archivo eliminado: ./juegos/Cabelas Outdoor Aventures/torrent do jogo.torrent
+2024-08-18 16:20:00,285 - INFO - Archivo eliminado: ./juegos/Borderlands 2 GOTY Edition/torrent do jogo.torrent
+2024-08-18 16:20:00,286 - INFO - Archivo eliminado: ./juegos/LEGO Rock Band/torrent do jogo.torrent
+2024-08-18 16:20:00,286 - INFO - Archivo eliminado: ./juegos/Farming Simulator 15/torrent do jogo.torrent
+2024-08-18 16:20:00,286 - INFO - Archivo eliminado: ./juegos/Hyperdimension Neptunia Victory/torrent do jogo.torrent
+2024-08-18 16:20:00,287 - INFO - Archivo eliminado: ./juegos/Remember Me/torrent do jogo.torrent
+2024-08-18 16:20:00,287 - INFO - Archivo eliminado: ./juegos/BioShock Infinite/torrent do jogo.torrent
+2024-08-18 16:20:00,287 - INFO - Archivo eliminado: ./juegos/Zen Pinball 2/torrent do jogo.torrent
+2024-08-18 16:20:00,287 - INFO - Archivo eliminado: ./juegos/Ninja Gaiden Sigma 2/torrent do jogo.torrent
+2024-08-18 16:20:00,288 - INFO - Archivo eliminado: ./juegos/The Last Guy/torrent do jogo.torrent
+2024-08-18 16:20:00,288 - INFO - Archivo eliminado: ./juegos/Batman Arkham Origins Special Edition/torrent do jogo.torrent
+2024-08-18 16:20:00,288 - INFO - Archivo eliminado: ./juegos/The Shoot/torrent do jogo.torrent
+2024-08-18 16:20:00,288 - INFO - Archivo eliminado: ./juegos/The Last of Us/torrent do jogo.torrent
+2024-08-18 16:20:00,288 - INFO - Archivo eliminado: ./juegos/Sonic Generations/torrent do jogo.torrent
+2024-08-18 16:20:00,289 - INFO - Archivo eliminado: ./juegos/Fight Night Champion/torrent do jogo.torrent
+2024-08-18 16:20:00,289 - INFO - Archivo eliminado: ./juegos/Alone in the Dark Inferno/torrent do jogo.torrent
+2024-08-18 16:20:00,289 - INFO - Archivo eliminado: ./juegos/The Elder Scrolls V Skyrim/torrent do jogo.torrent
+2024-08-18 16:20:00,289 - INFO - Archivo eliminado: ./juegos/Warhammer 40.000 Space Marine/torrent do jogo.torrent
+2024-08-18 16:20:00,290 - INFO - Archivo eliminado: ./juegos/Abyss Odyssey PSN/torrent de juego.torrent
+2024-08-18 16:20:00,290 - INFO - Archivo eliminado: ./juegos/Gran Turismo 6 Special Edition/torrent do jogo.torrent
+2024-08-18 16:20:00,290 - INFO - Archivo eliminado: ./juegos/Star Ocean The Last Hope International/torrent do jogo.torrent
+2024-08-18 16:20:00,290 - INFO - Archivo eliminado: ./juegos/Rugby League Live 2/torrent do jogo.torrent
+2024-08-18 16:20:00,291 - INFO - Archivo eliminado: ./juegos/Teenage Mutant Ninja Turtles Danger of the Ooze/torrent do jogo.torrent
+2024-08-18 16:20:00,291 - INFO - Archivo eliminado: ./juegos/Need For Speed Shift 2/torrent do jogo.torrent
+2024-08-18 16:20:00,291 - INFO - Archivo eliminado: ./juegos/Hakuoki Stories of the Shinsengumi/torrent do jogo.torrent
+2024-08-18 16:20:00,291 - INFO - Archivo eliminado: ./juegos/Brothers A Tale of Two Sons PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,292 - INFO - Archivo eliminado: ./juegos/MLB 16 The Show/torrent do jogo.torrent
+2024-08-18 16:20:00,292 - INFO - Archivo eliminado: ./juegos/Metal Gear Solid V The Phantom Pain/torrent do jogo.torrent
+2024-08-18 16:20:00,292 - INFO - Archivo eliminado: ./juegos/Natural Doctrine/torrent do jogo.torrent
+2024-08-18 16:20:00,293 - INFO - Archivo eliminado: ./juegos/Atelier Ayesha The Alchemist of Dusk/torrent do jogo.torrent
+2024-08-18 16:20:00,293 - INFO - Archivo eliminado: ./juegos/Atelier Meruru The Apprentice of Arland/torrent do jogo.torrent
+2024-08-18 16:20:00,293 - INFO - Archivo eliminado: ./juegos/Ratchet & Clank Future Crack InTime/torrent do jogo.torrent
+2024-08-18 16:20:00,293 - INFO - Archivo eliminado: ./juegos/Heavy Fire Afghanistan/torrent do jogo.torrent
+2024-08-18 16:20:00,294 - INFO - Archivo eliminado: ./juegos/Cabelas African Adventures/torrent do jogo.torrent
+2024-08-18 16:20:00,294 - INFO - Archivo eliminado: ./juegos/Just Dance 3/torrent do jogo.torrent
+2024-08-18 16:20:00,294 - INFO - Archivo eliminado: ./juegos/Magus/torrent do jogo.torrent
+2024-08-18 16:20:00,295 - INFO - Archivo eliminado: ./juegos/Crazy Taxi PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,295 - INFO - Archivo eliminado: ./juegos/PES Pro Evolution Soccer 2013/torrent do jogo.torrent
+2024-08-18 16:20:00,295 - INFO - Archivo eliminado: ./juegos/Pier Solar and the Great Architects/torrent do jogo.torrent
+2024-08-18 16:20:00,295 - INFO - Archivo eliminado: ./juegos/MLB 15 The Show/torrent do jogo.torrent
+2024-08-18 16:20:00,295 - INFO - Archivo eliminado: ./juegos/Assassin's Creed 1 PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,296 - INFO - Archivo eliminado: ./juegos/Dynasty Warriors Gundam 2/torrent do jogo.torrent
+2024-08-18 16:20:00,296 - INFO - Archivo eliminado: ./juegos/Back to the Future/torrent do jogo.torrent
+2024-08-18 16:20:00,296 - INFO - Archivo eliminado: ./juegos/UFC Undisputed/torrent do jogo.torrent
+2024-08-18 16:20:00,297 - INFO - Archivo eliminado: ./juegos/Escape Dead Island/torrent do jogo.torrent
+2024-08-18 16:20:00,297 - INFO - Archivo eliminado: ./juegos/Need For Speed Carbon/torrent do jogo.torrent
+2024-08-18 16:20:00,297 - INFO - Archivo eliminado: ./juegos/Uncharted 1 Drake´s Fortune/torrent do jogo.torrent
+2024-08-18 16:20:00,297 - INFO - Archivo eliminado: ./juegos/Under Night In Birth Exe Late/torrent do jogo.torrent
+2024-08-18 16:20:00,298 - INFO - Archivo eliminado: ./juegos/Killzone Trilogy/torrent do jogo.torrent
+2024-08-18 16:20:00,298 - INFO - Archivo eliminado: ./juegos/UFC Personal Trainer/torrent do jogo.torrent
+2024-08-18 16:20:00,298 - INFO - Archivo eliminado: ./juegos/Moto GP 13/torrent do jogo.torrent
+2024-08-18 16:20:00,298 - INFO - Archivo eliminado: ./juegos/Air Conflicts Vietnam/torrent del juego.torrent
+2024-08-18 16:20:00,299 - INFO - Archivo eliminado: ./juegos/Marvel Ultimate Alliance 2/torrent do jogo.torrent
+2024-08-18 16:20:00,299 - INFO - Archivo eliminado: ./juegos/NIER/torrent do jogo.torrent
+2024-08-18 16:20:00,299 - INFO - Archivo eliminado: ./juegos/Wolfenstein/torrent do jogo.torrent
+2024-08-18 16:20:00,299 - INFO - Archivo eliminado: ./juegos/Mountain Crime PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,299 - INFO - Archivo eliminado: ./juegos/Rock Band Metal Track Pack/torrent do jogo.torrent
+2024-08-18 16:20:00,300 - INFO - Archivo eliminado: ./juegos/SBK Generations/torrent do jogo.torrent
+2024-08-18 16:20:00,300 - INFO - Archivo eliminado: ./juegos/Army of Two The Devils Cartel/torrent do jogo.torrent
+2024-08-18 16:20:00,300 - INFO - Archivo eliminado: ./juegos/Turbo Super Stunt  Squad/torrent do jogo.torrent
+2024-08-18 16:20:00,301 - INFO - Archivo eliminado: ./juegos/Madagascar Kartz/torrent do jogo.torrent
+2024-08-18 16:20:00,301 - INFO - Archivo eliminado: ./juegos/Brink/torrent do jogo.torrent
+2024-08-18 16:20:00,301 - INFO - Archivo eliminado: ./juegos/Invizimals The Lost Kingdom/torrent do jogo.torrent
+2024-08-18 16:20:00,301 - INFO - Archivo eliminado: ./juegos/Phineas and Ferb Across the Second Dimension/torrent do jogo.torrent
+2024-08-18 16:20:00,302 - INFO - Archivo eliminado: ./juegos/Super Street Figther IV Arcade/torrent do jogo.torrent
+2024-08-18 16:20:00,302 - INFO - Archivo eliminado: ./juegos/Adventure Time The Secret of the Nameless Kingdom/torrent del juego.torrent
+2024-08-18 16:20:00,302 - INFO - Archivo eliminado: ./juegos/Ben 10 Ultimate Alien Cosmic Destruction/torrent do jogo.torrent
+2024-08-18 16:20:00,302 - INFO - Archivo eliminado: ./juegos/Need For Speed Undercover/torrent do jogo.torrent
+2024-08-18 16:20:00,303 - INFO - Archivo eliminado: ./juegos/Battlefield Bad Company 2/torrent do jogo.torrent
+2024-08-18 16:20:00,303 - INFO - Archivo eliminado: ./juegos/God of War Ascension/torrent do jogo.torrent
+2024-08-18 16:20:00,303 - INFO - Archivo eliminado: ./juegos/Megamind Ultimate Showdown/torrent do jogo.torrent
+2024-08-18 16:20:00,304 - INFO - Archivo eliminado: ./juegos/Rise of the Guardians/torrent do jogo.torrent
+2024-08-18 16:20:00,304 - INFO - Archivo eliminado: ./juegos/Madden NFL 25/torrent do jogo.torrent
+2024-08-18 16:20:00,304 - INFO - Archivo eliminado: ./juegos/Armageddon Riders PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,304 - INFO - Archivo eliminado: ./juegos/Initial D Extreme Stage/torrent do jogo.torrent
+2024-08-18 16:20:00,304 - INFO - Archivo eliminado: ./juegos/Dragons Dogma Dark Arisen/torrent do jogo.torrent
+2024-08-18 16:20:00,305 - INFO - Archivo eliminado: ./juegos/Legends of War Patton/torrent do jogo.torrent
+2024-08-18 16:20:00,305 - INFO - Archivo eliminado: ./juegos/Hunted The Demons Forge/torrent do jogo.torrent
+2024-08-18 16:20:00,305 - INFO - Archivo eliminado: ./juegos/Mobile Suit Gundam Crossfire/torrent do jogo.torrent
+2024-08-18 16:20:00,306 - INFO - Archivo eliminado: ./juegos/Disney Infinity/torrent do jogo.torrent
+2024-08-18 16:20:00,306 - INFO - Archivo eliminado: ./juegos/Deus Ex Human Revolution/torrent do jogo.torrent
+2024-08-18 16:20:00,306 - INFO - Archivo eliminado: ./juegos/Uncharted Collection/torrent do jogo.torrent
+2024-08-18 16:20:00,307 - INFO - Archivo eliminado: ./juegos/Mass Effect 3/torrent do jogo.torrent
+2024-08-18 16:20:00,307 - INFO - Archivo eliminado: ./juegos/NBA 2011/torrent do jogo.torrent
+2024-08-18 16:20:00,307 - INFO - Archivo eliminado: ./juegos/FIFA 11/torrent do jogo.torrent
+2024-08-18 16:20:00,307 - INFO - Archivo eliminado: ./juegos/Battleship/torrent do jogo.torrent
+2024-08-18 16:20:00,308 - INFO - Archivo eliminado: ./juegos/The Witch and The Hundred Knights/torrent do jogo.torrent
+2024-08-18 16:20:00,308 - INFO - Archivo eliminado: ./juegos/Fracture/torrent do jogo.torrent
+2024-08-18 16:20:00,308 - INFO - Archivo eliminado: ./juegos/Assassins Creed Ezio Trilogy/torrent do jogo.torrent
+2024-08-18 16:20:00,309 - INFO - Archivo eliminado: ./juegos/Tony Hawk Pro Skater HD PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,309 - INFO - Archivo eliminado: ./juegos/Angry Birds Trilogy/torrent do jogo.torrent
+2024-08-18 16:20:00,309 - INFO - Archivo eliminado: ./juegos/LEGO Marvel Super Heroes/torrent do jogo.torrent
+2024-08-18 16:20:00,309 - INFO - Archivo eliminado: ./juegos/GTA IV/torrent do jogo.torrent
+2024-08-18 16:20:00,310 - INFO - Archivo eliminado: ./juegos/The Club/torrent do jogo.torrent
+2024-08-18 16:20:00,310 - INFO - Archivo eliminado: ./juegos/FIFA World Cup Brazil 2014/torrent do jogo.torrent
+2024-08-18 16:20:00,310 - INFO - Archivo eliminado: ./juegos/Castlevania Lords of Shadow Mirror of Fate HD PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,310 - INFO - Archivo eliminado: ./juegos/NBA 2016/torrent do jogo.torrent
+2024-08-18 16:20:00,311 - INFO - Archivo eliminado: ./juegos/Aegis of Earth Protonovus Assault/torrent del juego.torrent
+2024-08-18 16:20:00,311 - INFO - Archivo eliminado: ./juegos/Flashback HD PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,311 - INFO - Archivo eliminado: ./juegos/J. Stars Victory VS PLUS/torrent do jogo.torrent
+2024-08-18 16:20:00,312 - INFO - Archivo eliminado: ./juegos/Family Guy Back To The Multiverse/torrent do jogo.torrent
+2024-08-18 16:20:00,312 - INFO - Archivo eliminado: ./juegos/Cabelas Big Game Hunter Pro Hunts/torrent do jogo.torrent
+2024-08-18 16:20:00,312 - INFO - Archivo eliminado: ./juegos/The Bourne Conspiracy/torrent do jogo.torrent
+2024-08-18 16:20:00,312 - INFO - Archivo eliminado: ./juegos/Tales of Zestiria/torrent do jogo.torrent
+2024-08-18 16:20:00,313 - INFO - Archivo eliminado: ./juegos/Resident Evil Chronicles Trilogy HD/torrent do jogo.torrent
+2024-08-18 16:20:00,314 - INFO - Archivo eliminado: ./juegos/F1 2013/torrent do jogo.torrent
+2024-08-18 16:20:00,314 - INFO - Archivo eliminado: ./juegos/Ice Age 4 Continental Drift Arctic Games/torrent do jogo.torrent
+2024-08-18 16:20:00,314 - INFO - Archivo eliminado: ./juegos/OutRun Online Arcade PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,315 - INFO - Archivo eliminado: ./juegos/Ratchet & Clank Into the Nexus/torrent do jogo.torrent
+2024-08-18 16:20:00,315 - INFO - Archivo eliminado: ./juegos/Colin Mcrae Rally Dirt 2/Colin Macrae Rally Dirt 2.torrent
+2024-08-18 16:20:00,316 - INFO - Archivo eliminado: ./juegos/Facebreaker/torrent do jogo.torrent
+2024-08-18 16:20:00,316 - INFO - Archivo eliminado: ./juegos/Railfan Taiwan High Speed Rail/torrent do jogo.torrent
+2024-08-18 16:20:00,317 - INFO - Archivo eliminado: ./juegos/Rage/torrent do jogo.torrent
+2024-08-18 16:20:00,317 - INFO - Archivo eliminado: ./juegos/Dragon Ball Raging Blast 2/torrent do jogo.torrent
+2024-08-18 16:20:00,317 - INFO - Archivo eliminado: ./juegos/Prototype 2/torrent do jogo.torrent
+2024-08-18 16:20:00,318 - INFO - Archivo eliminado: ./juegos/Midway Arcade Origins/torrent do jogo.torrent
+2024-08-18 16:20:00,318 - INFO - Archivo eliminado: ./juegos/Just Dance 2014/torrent do jogo.torrent
+2024-08-18 16:20:00,318 - INFO - Archivo eliminado: ./juegos/Earth Defense Force/torrent do jogo.torrent
+2024-08-18 16:20:00,319 - INFO - Archivo eliminado: ./juegos/Medal Of Honor Warfighter/torrent do jogo.torrent
+2024-08-18 16:20:00,319 - INFO - Archivo eliminado: ./juegos/Def Jam Icon Fight/torrent do jogo.torrent
+2024-08-18 16:20:00,319 - INFO - Archivo eliminado: ./juegos/Battlefield Hardline/torrent do jogo.torrent
+2024-08-18 16:20:00,319 - INFO - Archivo eliminado: ./juegos/God of War Origins Collection/torrent do jogo.torrent
+2024-08-18 16:20:00,320 - INFO - Archivo eliminado: ./juegos/Conan/torrent do jogo.torrent
+2024-08-18 16:20:00,320 - INFO - Archivo eliminado: ./juegos/Teslagrad/torrent do jogo.torrent
+2024-08-18 16:20:00,320 - INFO - Archivo eliminado: ./juegos/Disgaea 3 Absence of Justice/torrent do jogo.torrent
+2024-08-18 16:20:00,320 - INFO - Archivo eliminado: ./juegos/CSI Crime Scene Investigation Fatal Conspiracy/torrent do jogo.torrent
+2024-08-18 16:20:00,321 - INFO - Archivo eliminado: ./juegos/Colin Mcrae Rally Dirt Showdown/DiRT Colin McRAE RALLY SHOWDOWN.torrent
+2024-08-18 16:20:00,321 - INFO - Archivo eliminado: ./juegos/John Daly’s Pro Stroke Golf/torrent do jogo.torrent
+2024-08-18 16:20:00,321 - INFO - Archivo eliminado: ./juegos/Naruto Shippuden Ultimate Ninja Storm Revolution/torrent do jogo.torrent
+2024-08-18 16:20:00,321 - INFO - Archivo eliminado: ./juegos/Far Cry 3/torrent do jogo.torrent
+2024-08-18 16:20:00,322 - INFO - Archivo eliminado: ./juegos/Summer Star 2012/torrent do jogo.torrent
+2024-08-18 16:20:00,322 - INFO - Archivo eliminado: ./juegos/One Piece Pirate Warriors 2/torrent do jogo.torrent
+2024-08-18 16:20:00,322 - INFO - Archivo eliminado: ./juegos/Strider PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,323 - INFO - Archivo eliminado: ./juegos/Ni No Kuni Wrath of the White Witch/torrent do jogo.torrent
+2024-08-18 16:20:00,323 - INFO - Archivo eliminado: ./juegos/Guacamelee PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,323 - INFO - Archivo eliminado: ./juegos/Heavy Rain/torrent do jogo.torrent
+2024-08-18 16:20:00,324 - INFO - Archivo eliminado: ./juegos/Assassins Creed Brotherhood/torrent do jogo.torrent
+2024-08-18 16:20:00,324 - INFO - Archivo eliminado: ./juegos/Quantum Theory/torrent do jogo.torrent
+2024-08-18 16:20:00,324 - INFO - Archivo eliminado: ./juegos/Fist Of The North Star Kens Rage 2/torrent do jogo.torrent
+2024-08-18 16:20:00,324 - INFO - Archivo eliminado: ./juegos/F1 2010/torrent do jogo.torrent
+2024-08-18 16:20:00,325 - INFO - Archivo eliminado: ./juegos/Prince of Persia Thr Forgotten Sands/torrent do jogo.torrent
+2024-08-18 16:20:00,325 - INFO - Archivo eliminado: ./juegos/Ninja Gaiden 3/torrent do jogo.torrent
+2024-08-18 16:20:00,325 - INFO - Archivo eliminado: ./juegos/Bejeweled 3 PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,325 - INFO - Archivo eliminado: ./juegos/The Legend of Heroes Trail of Cold Steel/torrent do jogo.torrent
+2024-08-18 16:20:00,326 - INFO - Archivo eliminado: ./juegos/Hitman HD Trilogy/torrent do jogo.torrent
+2024-08-18 16:20:00,326 - INFO - Archivo eliminado: ./juegos/Of Orcs and Men/torrent do jogo.torrent
+2024-08-18 16:20:00,326 - INFO - Archivo eliminado: ./juegos/Naruto Shippuden Ultimate Ninja Storm Generations/torrent do jogo.torrent
+2024-08-18 16:20:00,326 - INFO - Archivo eliminado: ./juegos/CellFactor Psychokinetic Wars/torrent do jogo.torrent
+2024-08-18 16:20:00,327 - INFO - Archivo eliminado: ./juegos/Thor God of Thunder/torrent do jogo.torrent
+2024-08-18 16:20:00,327 - INFO - Archivo eliminado: ./juegos/Castlestorm PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,327 - INFO - Archivo eliminado: ./juegos/Batman Arkham Asylum Goty Edition/torrent do jogo.torrent
+2024-08-18 16:20:00,328 - INFO - Archivo eliminado: ./juegos/Singstar Back to the 80s 2011/torrent do jogo.torrent
+2024-08-18 16:20:00,328 - INFO - Archivo eliminado: ./juegos/Monopoly Streets/torrent do jogo.torrent
+2024-08-18 16:20:00,328 - INFO - Archivo eliminado: ./juegos/Sega Rally/torrent do jogo.torrent
+2024-08-18 16:20:00,329 - INFO - Archivo eliminado: ./juegos/LEGO Jurassic World/torrent do jogo.torrent
+2024-08-18 16:20:00,329 - INFO - Archivo eliminado: ./juegos/World Rally Championship 3/torrent do jogo.torrent
+2024-08-18 16:20:00,329 - INFO - Archivo eliminado: ./juegos/The Fight Lights Out/torrent do jogo.torrent
+2024-08-18 16:20:00,329 - INFO - Archivo eliminado: ./juegos/Serious Sam 3/torrent do jogo.torrent
+2024-08-18 16:20:00,330 - INFO - Archivo eliminado: ./juegos/Bioshock 2/torrent do jogo.torrent
+2024-08-18 16:20:00,330 - INFO - Archivo eliminado: ./juegos/Sniper Elite III/torrent do jogo.torrent
+2024-08-18 16:20:00,330 - INFO - Archivo eliminado: ./juegos/Singstar Ultimate Party/torrent do jogo.torrent
+2024-08-18 16:20:00,330 - INFO - Archivo eliminado: ./juegos/Medal Of Honor/torrent do jogo.torrent
+2024-08-18 16:20:00,331 - INFO - Archivo eliminado: ./juegos/Heavy Fire Shattered Spear/torrent do jogo.torrent
+2024-08-18 16:20:00,331 - INFO - Archivo eliminado: ./juegos/Pac Man And The Ghostly Adventures 2/torrent do jogo.torrent
+2024-08-18 16:20:00,331 - INFO - Archivo eliminado: ./juegos/Green Lantern Rise of The Manhunters/torrent do jogo.torrent
+2024-08-18 16:20:00,331 - INFO - Archivo eliminado: ./juegos/J. Stars Victory VS/torrent do jogo.torrent
+2024-08-18 16:20:00,332 - INFO - Archivo eliminado: ./juegos/Dynasty Warriors 7 Empires/torrent do jogo.torrent
+2024-08-18 16:20:00,332 - INFO - Archivo eliminado: ./juegos/Zone of the Enders Hd Collection/torrent do jogo.torrent
+2024-08-18 16:20:00,332 - INFO - Archivo eliminado: ./juegos/Spider Man, The Amazing/torrent do jogo.torrent
+2024-08-18 16:20:00,333 - INFO - Archivo eliminado: ./juegos/Inversion/torrent do jogo.torrent
+2024-08-18 16:20:00,333 - INFO - Archivo eliminado: ./juegos/Injustice Gods Among Us/torrent do jogo.torrent
+2024-08-18 16:20:00,333 - INFO - Archivo eliminado: ./juegos/Call of Duty Advanced Warfare/torrent do jogo.torrent
+2024-08-18 16:20:00,333 - INFO - Archivo eliminado: ./juegos/F1 Race Stars/torrent do jogo.torrent
+2024-08-18 16:20:00,334 - INFO - Archivo eliminado: ./juegos/Saints Row IV/torrent do jogo.torrent
+2024-08-18 16:20:00,334 - INFO - Archivo eliminado: ./juegos/The Godfather 2/torrent do jogo.torrent
+2024-08-18 16:20:00,334 - INFO - Archivo eliminado: ./juegos/LEGO Star Wars III The Clone Wars/torrent do jogo.torrent
+2024-08-18 16:20:00,334 - INFO - Archivo eliminado: ./juegos/Bayonetta/torrent do jogo.torrent
+2024-08-18 16:20:00,335 - INFO - Archivo eliminado: ./juegos/Moto GP 14/torrent do jogo.torrent
+2024-08-18 16:20:00,335 - INFO - Archivo eliminado: ./juegos/Girl Fight PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,335 - INFO - Archivo eliminado: ./juegos/Prison Break the Conspiracy/torrent do jogo.torrent
+2024-08-18 16:20:00,336 - INFO - Archivo eliminado: ./juegos/Puppeteer/torrent do jogo.torrent
+2024-08-18 16:20:00,337 - INFO - Archivo eliminado: ./juegos/Painkiller Hell And Damnation/torrent do jogo.torrent
+2024-08-18 16:20:00,337 - INFO - Archivo eliminado: ./juegos/Puss in Boots/torrent do jogo.torrent
+2024-08-18 16:20:00,337 - INFO - Archivo eliminado: ./juegos/Sly Cooper Thieves In Time/torrent do jogo.torrent
+2024-08-18 16:20:00,337 - INFO - Archivo eliminado: ./juegos/Sherlock Holmes, The Testament/torrent do jogo.torrent
+2024-08-18 16:20:00,338 - INFO - Archivo eliminado: ./juegos/Murdered Soul Suspect/torrent do jogo.torrent
+2024-08-18 16:20:00,338 - INFO - Archivo eliminado: ./juegos/Time Crisis Razing Storm/torrent do jogo.torrent
+2024-08-18 16:20:00,338 - INFO - Archivo eliminado: ./juegos/WALL E/torrent do jogo.torrent
+2024-08-18 16:20:00,338 - INFO - Archivo eliminado: ./juegos/Transformers Dark of the Moon/torrent do jogo.torrent
+2024-08-18 16:20:00,338 - INFO - Archivo eliminado: ./juegos/Need For Speed The Run/torrent do jogo.torrent
+2024-08-18 16:20:00,339 - INFO - Archivo eliminado: ./juegos/Wipe Out Fury HD/torrent do jogo.torrent
+2024-08-18 16:20:00,339 - INFO - Archivo eliminado: ./juegos/Moto GP 15/torrent do jogo.torrent
+2024-08-18 16:20:00,339 - INFO - Archivo eliminado: ./juegos/Grand Slam Tennis 2/torrent do jogo.torrent
+2024-08-18 16:20:00,339 - INFO - Archivo eliminado: ./juegos/Terraria PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,339 - INFO - Archivo eliminado: ./juegos/Tekken Tag Tournament 2/torrent do jogo.torrent
+2024-08-18 16:20:00,340 - INFO - Archivo eliminado: ./juegos/Leisure Suit Larry Box Office Bust/torrent do jogo.torrent
+2024-08-18 16:20:00,340 - INFO - Archivo eliminado: ./juegos/Wonderbook Walking With Dinosaurs/torrent do jogo.torrent
+2024-08-18 16:20:00,340 - INFO - Archivo eliminado: ./juegos/Bolt/torrent do jogo.torrent
+2024-08-18 16:20:00,341 - INFO - Archivo eliminado: ./juegos/Atelier Escha and Logy Alchemists of the Dusk Sky/torrent do jogo.torrent
+2024-08-18 16:20:00,341 - INFO - Archivo eliminado: ./juegos/Fuse/torrent do jogo.torrent
+2024-08-18 16:20:00,341 - INFO - Archivo eliminado: ./juegos/Deception IV Blood Ties/torrent do jogo.torrent
+2024-08-18 16:20:00,341 - INFO - Archivo eliminado: ./juegos/Double Dragon Neon/torrent do jogo.torrent
+2024-08-18 16:20:00,342 - INFO - Archivo eliminado: ./juegos/NCAA Football 14/torrent do jogo.torrent
+2024-08-18 16:20:00,342 - INFO - Archivo eliminado: ./juegos/Resident Evil The Darkside Chronicles HD/torrent do jogo.torrent
+2024-08-18 16:20:00,342 - INFO - Archivo eliminado: ./juegos/Man Vs Wild/torrent do jogo.torrent
+2024-08-18 16:20:00,342 - INFO - Archivo eliminado: ./juegos/Twisted Metal/torrent do jogo.torrent
+2024-08-18 16:20:00,342 - INFO - Archivo eliminado: ./juegos/Soul Calibur 4/torrent do jogo.torrent
+2024-08-18 16:20:00,343 - INFO - Archivo eliminado: ./juegos/Rune Factory Oceans/torrent do jogo.torrent
+2024-08-18 16:20:00,343 - INFO - Archivo eliminado: ./juegos/Red Dead Redemption Undead Nightmare/torrent do jogo.torrent
+2024-08-18 16:20:00,343 - INFO - Archivo eliminado: ./juegos/Far Cry 3 Blood Dragon PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,344 - INFO - Archivo eliminado: ./juegos/Jak and Daxter Collection/torrent do jogo.torrent
+2024-08-18 16:20:00,344 - INFO - Archivo eliminado: ./juegos/Payday 2/torrent do jogo.torrent
+2024-08-18 16:20:00,344 - INFO - Archivo eliminado: ./juegos/F1 2011/torrent do jogo.torrent
+2024-08-18 16:20:00,345 - INFO - Archivo eliminado: ./juegos/Counter Strike Global Offensive/torrent do jogo.torrent
+2024-08-18 16:20:00,345 - INFO - Archivo eliminado: ./juegos/Dead Rising 2/torrent do jogo.torrent
+2024-08-18 16:20:00,345 - INFO - Archivo eliminado: ./juegos/Spider Man Web of Shadows/torrent do jogo.torrent
+2024-08-18 16:20:00,345 - INFO - Archivo eliminado: ./juegos/Flight Control HD PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,346 - INFO - Archivo eliminado: ./juegos/Dynasty Warriors 8 Xtreme Legends/torrent do jogo.torrent
+2024-08-18 16:20:00,346 - INFO - Archivo eliminado: ./juegos/Dark Souls/torrent do jogo.torrent
+2024-08-18 16:20:00,346 - INFO - Archivo eliminado: ./juegos/Shadow of Mordor Middle Earth/torrent do jogo.torrent
+2024-08-18 16:20:00,346 - INFO - Archivo eliminado: ./juegos/Final Fantasy XIII Lightning Returns/torrent do jogo.torrent
+2024-08-18 16:20:00,347 - INFO - Archivo eliminado: ./juegos/Call of Duty Ghosts/torrent do jogo.torrent
+2024-08-18 16:20:00,347 - INFO - Archivo eliminado: ./juegos/Top Gun Hard Lock/torrent do jogo.torrent
+2024-08-18 16:20:00,347 - INFO - Archivo eliminado: ./juegos/Kingdoms of Amalur Reckoning/torrent do jogo.torrent
+2024-08-18 16:20:00,347 - INFO - Archivo eliminado: ./juegos/MotorStorm Apocalypse/torrent do jogo.torrent
+2024-08-18 16:20:00,348 - INFO - Archivo eliminado: ./juegos/Test Drive Ferrari/torrent do jogo.torrent
+2024-08-18 16:20:00,348 - INFO - Archivo eliminado: ./juegos/Mortal Kombat Vs DC Universe/torrent do jogo.torrent
+2024-08-18 16:20:00,348 - INFO - Archivo eliminado: ./juegos/Lucha Libre/torrent do jogo.torrent
+2024-08-18 16:20:00,348 - INFO - Archivo eliminado: ./juegos/FIFA 13/torrent do jogo.torrent
+2024-08-18 16:20:00,348 - INFO - Archivo eliminado: ./juegos/The Elder Scrolls V Skyrim Legendary Edition/torrent do jogo.torrent
+2024-08-18 16:20:00,349 - INFO - Archivo eliminado: ./juegos/Guilty Gear Xrd Sign/torrent do jogo.torrent
+2024-08-18 16:20:00,349 - INFO - Archivo eliminado: ./juegos/Hot Wheels Worlds Best Drive/torrent do jogo.torrent
+2024-08-18 16:20:00,349 - INFO - Archivo eliminado: ./juegos/Resident Evil 5 Gold Edition/torrent do jogo.torrent
+2024-08-18 16:20:00,349 - INFO - Archivo eliminado: ./juegos/Metal Gear Solid The Legacy Collection/torrent do jogo.torrent
+2024-08-18 16:20:00,350 - INFO - Archivo eliminado: ./juegos/Gran Turismo 5/torrent do jogo.torrent
+2024-08-18 16:20:00,350 - INFO - Archivo eliminado: ./juegos/MUD Motocross World Championship/torrent do jogo.torrent
+2024-08-18 16:20:00,350 - INFO - Archivo eliminado: ./juegos/James Bond 007 Quantum Of Solace/torrent do jogo.torrent
+2024-08-18 16:20:00,350 - INFO - Archivo eliminado: ./juegos/Marvel Vs Capcom 3/torrent do jogo.torrent
+2024-08-18 16:20:00,350 - INFO - Archivo eliminado: ./juegos/Tekken 6/torrent do jogo.torrent
+2024-08-18 16:20:00,351 - INFO - Archivo eliminado: ./juegos/The Lord of the Rings Conquest/torrent do jogo.torrent
+2024-08-18 16:20:00,351 - INFO - Archivo eliminado: ./juegos/James Bond 007 GoldenEye Reloaded/torrent do jogo.torrent
+2024-08-18 16:20:00,351 - INFO - Archivo eliminado: ./juegos/Ben 10 Ominiverse 2/torrent do jogo.torrent
+2024-08-18 16:20:00,351 - INFO - Archivo eliminado: ./juegos/Joe Danger 2 The Movie PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,352 - INFO - Archivo eliminado: ./juegos/Blood Drive/torrent do jogo.torrent
+2024-08-18 16:20:00,352 - INFO - Archivo eliminado: ./juegos/NBA 2014/torrent do jogo.torrent
+2024-08-18 16:20:00,352 - INFO - Archivo eliminado: ./juegos/World Rally Championship 4/torrent do jogo.torrent
+2024-08-18 16:20:00,352 - INFO - Archivo eliminado: ./juegos/Ride To Hell Retribution/torrent do jogo.torrent
+2024-08-18 16:20:00,353 - INFO - Archivo eliminado: ./juegos/Transformers Rise of the Dark Spark/torrent do jogo.torrent
+2024-08-18 16:20:00,353 - INFO - Archivo eliminado: ./juegos/NASCAR 15/torrent do jogo.torrent
+2024-08-18 16:20:00,353 - INFO - Archivo eliminado: ./juegos/Brave The Video Game/torrent do jogo.torrent
+2024-08-18 16:20:00,354 - INFO - Archivo eliminado: ./juegos/Putty Squad/torrent do jogo.torrent
+2024-08-18 16:20:00,354 - INFO - Archivo eliminado: ./juegos/Infamous 2/torrent do jogo.torrent
+2024-08-18 16:20:00,354 - INFO - Archivo eliminado: ./juegos/Rambo The Videogame/torrent do jogo.torrent
+2024-08-18 16:20:00,354 - INFO - Archivo eliminado: ./juegos/Resident Evil 4/torrent do jogo.torrent
+2024-08-18 16:20:00,355 - INFO - Archivo eliminado: ./juegos/Skullgirls/torrent do jogo.torrent
+2024-08-18 16:20:00,355 - INFO - Archivo eliminado: ./juegos/Rayman Origins/torrent do jogo.torrent
+2024-08-18 16:20:00,355 - INFO - Archivo eliminado: ./juegos/Saint Seiya Soldiers Soul/torrent do jogo.torrent
+2024-08-18 16:20:00,355 - INFO - Archivo eliminado: ./juegos/The Walking Dead Survival Instinct/torrent do jogo.torrent
+2024-08-18 16:20:00,356 - INFO - Archivo eliminado: ./juegos/PES Pro Evolution Soccer 2015/torrent do jogo.torrent
+2024-08-18 16:20:00,356 - INFO - Archivo eliminado: ./juegos/The Guided Fate Paradox/torrent do jogo.torrent
+2024-08-18 16:20:00,356 - INFO - Archivo eliminado: ./juegos/Dark Souls Prepare to Die Edition/torrent do jogo.torrent
+2024-08-18 16:20:00,357 - INFO - Archivo eliminado: ./juegos/UFC Undisputed 3/torrent do jogo.torrent
+2024-08-18 16:20:00,357 - INFO - Archivo eliminado: ./juegos/Assassins Creed 3 Special Edition/torrent do jogo.torrent
+2024-08-18 16:20:00,357 - INFO - Archivo eliminado: ./juegos/Conflict Denied Ops/torrent do jogo.torrent
+2024-08-18 16:20:00,357 - INFO - Archivo eliminado: ./juegos/Saints Row IV Game of the Century Edition/torrent do jogo.torrent
+2024-08-18 16:20:00,358 - INFO - Archivo eliminado: ./juegos/Skate 2/torrent do jogo.torrent
+2024-08-18 16:20:00,358 - INFO - Archivo eliminado: ./juegos/Sanctum 2/torrent do jogo.torrent
+2024-08-18 16:20:00,358 - INFO - Archivo eliminado: ./juegos/Ben 10 Omniverse/torrent do jogo.torrent
+2024-08-18 16:20:00,358 - INFO - Archivo eliminado: ./juegos/Dead Space 2/torrent do jogo.torrent
+2024-08-18 16:20:00,359 - INFO - Archivo eliminado: ./juegos/Portal 2/torrent do jogo.torrent
+2024-08-18 16:20:00,359 - INFO - Archivo eliminado: ./juegos/Turok/torrent do jogo.torrent
+2024-08-18 16:20:00,359 - INFO - Archivo eliminado: ./juegos/Beowulf The Game/torrent do jogo.torrent
+2024-08-18 16:20:00,359 - INFO - Archivo eliminado: ./juegos/Rain/torrent do jogo.torrent
+2024-08-18 16:20:00,360 - INFO - Archivo eliminado: ./juegos/Supercar Challenge/torrent do jogo.torrent
+2024-08-18 16:20:00,360 - INFO - Archivo eliminado: ./juegos/Blacksite Area 51/torrent do jogo.torrent
+2024-08-18 16:20:00,360 - INFO - Archivo eliminado: ./juegos/Cabelas North American Adventures/torrent do jogo.torrent
+2024-08-18 16:20:00,361 - INFO - Archivo eliminado: ./juegos/Yakuza Dead Souls/torrent do jogo.torrent
+2024-08-18 16:20:00,361 - INFO - Archivo eliminado: ./juegos/PES Pro Evolution Soccer 2014/torrent do jogo.torrent
+2024-08-18 16:20:00,361 - INFO - Archivo eliminado: ./juegos/One Piece Pirate Warriors 3/torrent do jogo.torrent
+2024-08-18 16:20:00,361 - INFO - Archivo eliminado: ./juegos/Child of Light PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,362 - INFO - Archivo eliminado: ./juegos/Child of Eden/torrent do jogo.torrent
+2024-08-18 16:20:00,362 - INFO - Archivo eliminado: ./juegos/Virtua Tennis 4/torrent do jogo.torrent
+2024-08-18 16:20:00,362 - INFO - Archivo eliminado: ./juegos/Call of Duty Blacks Ops/torrent do jogo.torrent
+2024-08-18 16:20:00,362 - INFO - Archivo eliminado: ./juegos/Iron Sky Invasion/torrent do jogo.torrent
+2024-08-18 16:20:00,363 - INFO - Archivo eliminado: ./juegos/NHL 16 Legacy Edition/torrent do jogo.torrent
+2024-08-18 16:20:00,363 - INFO - Archivo eliminado: ./juegos/World Snooker Championship 2011/torrent do jogo.torrent
+2024-08-18 16:20:00,363 - INFO - Archivo eliminado: ./juegos/FIFA Street 3/torrent do jogo.torrent
+2024-08-18 16:20:00,363 - INFO - Archivo eliminado: ./juegos/Golden Axe Beast Rider/torrent do jogo.torrent
+2024-08-18 16:20:00,364 - INFO - Archivo eliminado: ./juegos/Dantes Inferno/torrent do jogo.torrent
+2024-08-18 16:20:00,364 - INFO - Archivo eliminado: ./juegos/Prince of Persia Classic PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,364 - INFO - Archivo eliminado: ./juegos/XBlaze Code Embryo/XCOM Enemy.torrent
+2024-08-18 16:20:00,364 - INFO - Archivo eliminado: ./juegos/Battlefield 3/torrent do jogo.torrent
+2024-08-18 16:20:00,364 - INFO - Archivo eliminado: ./juegos/Rocksmith 2014/torrent do jogo.torrent
+2024-08-18 16:20:00,365 - INFO - Archivo eliminado: ./juegos/Time and Eternity/torrent do jogo.torrent
+2024-08-18 16:20:00,365 - INFO - Archivo eliminado: ./juegos/Resistance 2/torrent do jogo.torrent
+2024-08-18 16:20:00,365 - INFO - Archivo eliminado: ./juegos/GTA IV Complete Edition/torrent do jogo.torrent
+2024-08-18 16:20:00,365 - INFO - Archivo eliminado: ./juegos/SOCOM 4/torrent do jogo.torrent
+2024-08-18 16:20:00,366 - INFO - Archivo eliminado: ./juegos/Macross 30/torrent do jogo.torrent
+2024-08-18 16:20:00,366 - INFO - Archivo eliminado: ./juegos/Deus Ex Human Revolution Directors Cut/torrent do jogo.torrent
+2024-08-18 16:20:00,366 - INFO - Archivo eliminado: ./juegos/Blades of Time/torrent do jogo.torrent
+2024-08-18 16:20:00,366 - INFO - Archivo eliminado: ./juegos/Dead Nation/torrent do jogo.torrent
+2024-08-18 16:20:00,367 - INFO - Archivo eliminado: ./juegos/Skate 3/torrent do jogo.torrent
+2024-08-18 16:20:00,367 - INFO - Archivo eliminado: ./juegos/Fallout New Vegas Ultimate Edition/torrent do jogo.torrent
+2024-08-18 16:20:00,367 - INFO - Archivo eliminado: ./juegos/Motorcycle Club/torrent do jogo.torrent
+2024-08-18 16:20:00,367 - INFO - Archivo eliminado: ./juegos/LEGO Pirates of the Caribbean/torrent do jogo.torrent
+2024-08-18 16:20:00,368 - INFO - Archivo eliminado: ./juegos/Saint Seiya/torrent do jogo.torrent
+2024-08-18 16:20:00,368 - INFO - Archivo eliminado: ./juegos/NASCAR The Game Inside the Line/torrent do jogo.torrent
+2024-08-18 16:20:00,368 - INFO - Archivo eliminado: ./juegos/Hitman Absolution/torrent do jogo.torrent
+2024-08-18 16:20:00,368 - INFO - Archivo eliminado: ./juegos/Anarchy Rush Hour PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,368 - INFO - Archivo eliminado: ./juegos/Spider Man, The Amazing 2/torrent do jogo.torrent
+2024-08-18 16:20:00,369 - INFO - Archivo eliminado: ./juegos/Mass Effect 2/torrent do jogo.torrent
+2024-08-18 16:20:00,369 - INFO - Archivo eliminado: ./juegos/FIFA 12/torrent do jogo.torrent
+2024-08-18 16:20:00,369 - INFO - Archivo eliminado: ./juegos/PDC World Championship Darts Pro Tour/torrent do jogo.torrent
+2024-08-18 16:20:00,369 - INFO - Archivo eliminado: ./juegos/Flower/torrent do jogo.torrent
+2024-08-18 16:20:00,370 - INFO - Archivo eliminado: ./juegos/Time Crisis 4/torrent do jogo.torrent
+2024-08-18 16:20:00,370 - INFO - Archivo eliminado: ./juegos/The Sly Collection/torrent do jogo.torrent
+2024-08-18 16:20:00,370 - INFO - Archivo eliminado: ./juegos/NHL 14/torrent do jogo.torrent
+2024-08-18 16:20:00,370 - INFO - Archivo eliminado: ./juegos/Terminator Salvation/torrent do jogo.torrent
+2024-08-18 16:20:00,371 - INFO - Archivo eliminado: ./juegos/Devil May Cry 5 DMC/torrent do jogo.torrent
+2024-08-18 16:20:00,371 - INFO - Archivo eliminado: ./juegos/Anarchy Reigns/torrent do jogo.torrent
+2024-08-18 16:20:00,371 - INFO - Archivo eliminado: ./juegos/Pac Man Championship Edition/torrent do jogo.torrent
+2024-08-18 16:20:00,371 - INFO - Archivo eliminado: ./juegos/Motionsports Adrenaline/torrent do jogo.torrent
+2024-08-18 16:20:00,372 - INFO - Archivo eliminado: ./juegos/Dead Island GOTY Edition/torrent do jogo.torrent
+2024-08-18 16:20:00,372 - INFO - Archivo eliminado: ./juegos/Tomb Raider/torrent do jogo.torrent
+2024-08-18 16:20:00,372 - INFO - Archivo eliminado: ./juegos/Dungeons and Dragons Chronicles of Mystara PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,372 - INFO - Archivo eliminado: ./juegos/Alien Isolation/torrent do jogo.torrent
+2024-08-18 16:20:00,373 - INFO - Archivo eliminado: ./juegos/Dragon Ball Z Ultimate Tenkaichi/torrent do jogo.torrent
+2024-08-18 16:20:00,373 - INFO - Archivo eliminado: ./juegos/Metal Gear Solid 4 Guns of Patriots/torrent do jogo.torrent
+2024-08-18 16:20:00,373 - INFO - Archivo eliminado: ./juegos/Soul Calibur 5/torrent do jogo.torrent
+2024-08-18 16:20:00,373 - INFO - Archivo eliminado: ./juegos/Limbo PSN/torrent do jogo.torrent
+2024-08-18 16:20:00,373 - INFO - Archivo eliminado: ./juegos/Sports Champions 2/torrent do jogo.torrent
+2024-08-18 16:20:00,374 - INFO - Archivo eliminado: ./juegos/Dragon Ball Raging Blast/torrent do jogo.torrent
+2024-08-18 16:20:00,374 - INFO - Archivo eliminado: ./juegos/JoJos Bizarre Adventure AllStar Battle/torrent do jogo.torrent
+2024-08-18 16:20:00,374 - INFO - Archivo eliminado: ./juegos/Dynasty Warriors 7/torrent do jogo.torrent
+2024-08-18 16:20:00,374 - INFO - Proceso de eliminación de archivos .torrent completado.

@@ -1,0 +1,14 @@
+Información del archivo:
+
+
+Proyecto del legendario diseñador Ron Gilbert de The Secret of Monkey Island y Maniac Mansion en Double Fine Productions (Legend Brutal), tiene una propuesta muy inusual: usted es un explorador en una cueva de habla secreta.
+Una mezcla de plataforma y aventura, el título combinará elementos de los vikingos y trinos perdidos con los rompecabezas y diálogos con múltiples opciones de aventuras, un género que Gilbert domina con dominio igual a pocos desarrolladores.
+El escenario de la cueva es una cueva.Su gran diferencia es que ella habla.En esta cueva surge siete caracteres de diferentes períodos de tiempo.Cada uno de ellos aparece con el propósito de encontrar más sobre quiénes son y en quién pueden convertirse y esconde un oscuro secreto.
+Al comienzo de la aventura, el jugador debe seleccionar tres de los 7 personajes para usar en su aventura.El trío luego procede a la cueva, que debería explorarse como un escenario de Metroid, es decir, prestando atención a pasajes secretos y recordando áreas bloqueadas que se pueden lanzar más adelante.
+Cada uno de los personajes, que son estereotipos como un caballero o un científico, tiene habilidades específicas que pueden usarse para resolver rompecabezas y desbloquear ciertos túneles de cuevas.Esto significa que, dependiendo del trío seleccionado al comienzo del viaje, ciertas partes del mapa son inaccesibles.
+La idea detrás del juego es que el jugador, en busca de saber más sobre los siete personajes, reiniciará su viaje varias veces.
+
+
+Tamaño: 984 MB
+Rueda en el HD interno: sí
+Rueda en el disco duro externo: no
